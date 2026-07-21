@@ -1,0 +1,501 @@
+SupplierID,SupplierName,ContactPerson,Email,Phone,City,State,Country,LeadTimeDays,PaymentTerms,Rating,Status
+1,Elite Choudhury Traders,Anvi Konda,liamchaudry@chahal.com,3389083863,Jaipur,Rajasthan,India,9,Net 15,3.3,Active
+2,Vertex Ahuja Industries,Pahal Oak,nachiket35@chanda.com,5940781618,Nagpur,Maharashtra,India,3,Advance,3.2,Active
+3,Supreme Handa Traders,Chakradev Kari,fariq31@mall-setty.com,5534192832,Ahmedabad,Gujarat,India,24,Net 60,3.8,Active
+4,Smart Kanda Traders,Daksh Karnik,muttinandini@bhatti-kakar.org,3767242388,Pune,Maharashtra,India,24,Net 45,3.7,Active
+5,Shree Rastogi Industries,Theodore Devi,wchand@choudhary.com,9166978480,Bengaluru,Karnataka,India,14,Advance,3.7,Active
+6,Smart Oak Traders,Chaaya Saran,sudikshaaggarwal@lall.net,4893252880,Surat,Gujarat,India,19,Advance,4.9,Active
+7,Vertex Bahl Corporation,Janani Mohanty,dalbirkhosla@brar.com,2782489638,Ghaziabad,Uttar Pradesh,India,20,Net 15,4.4,Active
+8,Modern Prakash Corporation,Zansi Seth,kotaumang@nigam.org,9301031051,Bengaluru,Karnataka,India,29,Net 15,4.7,Active
+9,Green Sunder Solutions,Kevin Solanki,urvashiray@chandra.biz,6670106513,Pune,Maharashtra,India,13,Net 30,3.4,Active
+10,National Sen Wholesale,Pahal Goswami,turvi31@chaudhari-bedi.net,1326773602,Pune,Maharashtra,India,19,Net 15,3.3,Active
+11,Vertex Lanka Distributors,Bhavika Sampath,mdubey@kalla-bhardwaj.org,5009788208,Noida,Uttar Pradesh,India,28,Advance,3.5,Active
+12,Shree Bir Enterprises,Netra Dar,balveerbumb@virk-mutti.com,5346247510,Jaipur,Rajasthan,India,4,Net 15,4.8,Active
+13,Shree Chaudhry Distributors,Tanay Toor,kevin51@pingle.com,8498084124,Kanpur,Uttar Pradesh,India,14,Net 45,3.3,Active
+14,Vertex Dugal Retail,Baghyawati Kade,samar48@krishnamurthy-behl.com,4005242786,Jaipur,Rajasthan,India,25,Net 60,3.9,Active
+15,Sai Borra Distributors,Balendra Pingle,qushidatta@morar.com,3315869232,Chennai,Tamil Nadu,India,18,Net 45,3.2,Active
+16,Elite Gola Supplies,Nisha Kothari,nathaniel16@singhal.com,5433036541,Pune,Maharashtra,India,27,Net 45,4.2,Active
+17,Supreme Ratta Manufacturing,Ayaan D’Alia,pranav94@chopra.biz,5698169340,Jaipur,Rajasthan,India,19,Advance,4.4,Active
+18,Vertex Yohannan Corporation,Januja Sankar,narayanandipta@dash.com,5648236629,Noida,Uttar Pradesh,India,5,Net 30,3.9,Active
+19,Smart Acharya Retail,Bhavini Kade,dnagy@sathe-kala.net,2148951343,Pune,Maharashtra,India,18,Advance,4.7,Active
+20,Apex Batra Wholesale,Vaishnavi Bora,osachdeva@hayer.biz,2016328708,Ahmedabad,Gujarat,India,6,Net 30,4.5,Active
+21,Apex Deol Traders,Edhitha Savant,ksehgal@soman.com,8734714345,Noida,Uttar Pradesh,India,17,Advance,3.2,Active
+22,Sunrise Devi Distributors,Vihaan Rajagopal,tanishbhatt@reddy-narayanan.net,6036690967,Mumbai,Maharashtra,India,9,Net 60,4.9,Active
+23,Future Ramakrishnan Industries,Thomas Sura,anjalisarin@balakrishnan-ramachandran.com,2729806990,Chennai,Tamil Nadu,India,6,Net 45,4.9,Active
+24,Apex Shenoy Wholesale,Chandresh Lad,nnarang@narain-nazareth.biz,6417080531,Nagpur,Maharashtra,India,8,Net 60,4.5,Active
+25,Sunrise Iyengar Enterprises,Michael Khare,urvashicontractor@kamdar.com,9912419049,Ghaziabad,Uttar Pradesh,India,16,Net 60,3.9,Active
+26,National Borra Solutions,Harsh Mitra,barmanidika@sangha.net,0671657262,Delhi,Delhi,India,20,Net 60,3.5,Active
+27,National Yohannan Traders,Udyati Sarin,ekantika31@seshadri-kohli.info,5075273545,Kolkata,West Bengal,India,4,Advance,4.7,Active
+28,Modern Anne Corporation,Frederick Khurana,jsuresh@soni.info,0143634957,Kanpur,Uttar Pradesh,India,8,Net 60,3.3,Inactive
+29,Infinity Sandal Wholesale,Indira Setty,damini43@hans.com,3374989413,Kanpur,Uttar Pradesh,India,9,Net 45,4.6,Active
+30,Elite Gola Enterprises,Akshay Walla,anushabath@master.com,1094777520,Ghaziabad,Uttar Pradesh,India,15,Net 45,3.9,Active
+31,Elite Bhattacharyya Traders,Vyanjana Borah,doshimanthan@modi.com,9993867749,Indore,Madhya Pradesh,India,25,Net 30,4.6,Active
+32,United Bhasin Distributors,Sarthak Kakar,finn23@borde.com,7974034471,Surat,Gujarat,India,6,Net 45,3.4,Active
+33,National Hora Manufacturing,Ishwar Kar,amairadhar@bhasin.com,7174648877,Hyderabad,Telangana,India,3,Net 60,4.7,Suspended
+34,Modern Sankaran Supplies,Zashil Bal,karnikansh@luthra.info,4296717565,Nagpur,Maharashtra,India,17,Net 45,3.4,Active
+35,Prime Narayan Supplies,Warhi Mani,dbansal@murty.com,6808760385,Indore,Madhya Pradesh,India,2,Net 45,3.5,Active
+36,Green Behl Corporation,Amara Deep,raksha71@khatri.com,8086131712,Nagpur,Maharashtra,India,24,Net 60,4.3,Active
+37,United Mahajan Corporation,Vasudha Sodhi,tanmayidhillon@halder-trivedi.com,4658404499,Ahmedabad,Gujarat,India,3,Net 60,4.5,Active
+38,Shree Yohannan Traders,Hemani Natarajan,ushah@khare.biz,6057662702,Mumbai,Maharashtra,India,20,Net 45,4.0,Inactive
+39,Reliable Chaudhry Traders,Harish Vora,uaurora@rout.com,7459615865,Bengaluru,Karnataka,India,29,Net 15,3.1,Active
+40,Modern Biswas Enterprises,Bhavna Karan,sarafguneet@chaudhry.com,0504556238,Hyderabad,Telangana,India,30,Net 60,3.5,Active
+41,Supreme Garde Industries,Farhan Raja,widishadhar@shenoy.com,4074821759,Nagpur,Maharashtra,India,23,Net 60,4.1,Active
+42,Smart Shan Distributors,Rushil Rajagopalan,pchhabra@parmer-merchant.com,6409097439,Noida,Uttar Pradesh,India,9,Net 30,3.8,Active
+43,Sunrise Krishna Manufacturing,Gunbir Baral,ridhi09@deep-chana.com,6232858842,Noida,Uttar Pradesh,India,26,Advance,3.0,Active
+44,Infinity Nigam Industries,Upadhriti Borra,upkaarranganathan@pau.com,8175496513,Bengaluru,Karnataka,India,19,Net 15,4.0,Active
+45,Sai Narang Industries,Dev Shetty,nilima12@barad.info,1382675869,Kolkata,West Bengal,India,13,Net 30,3.3,Active
+46,Sunrise Suri Wholesale,Ati Bali,teerth77@patil.com,0643171390,Delhi,Delhi,India,23,Net 60,3.6,Active
+47,Star Dass Corporation,Ekapad Johal,virajnarasimhan@agate.com,8421020539,Hyderabad,Telangana,India,30,Advance,4.5,Active
+48,Sunrise Lanka Wholesale,Jonathan Sama,bhattvamakshi@pathak-varghese.org,7839084700,Ahmedabad,Gujarat,India,24,Net 30,3.4,Active
+49,Smart Chokshi Retail,Sachi Borah,nagymanbir@date.org,6984789611,Kanpur,Uttar Pradesh,India,10,Advance,3.2,Active
+50,Smart Seth Traders,Odika Nori,arastogi@chandran.com,5271111615,Delhi,Delhi,India,12,Net 15,4.3,Active
+51,Green Narayan Retail,Nirja Pandya,sbehl@muni.org,2731585149,Nagpur,Maharashtra,India,19,Advance,3.2,Inactive
+52,Star Bal Retail,Ayush Gole,dayamai55@golla.org,1201836675,Mumbai,Maharashtra,India,28,Net 30,4.2,Active
+53,Star Nair Traders,Charles Dugal,chandranbumb@savant-samra.info,6438156149,Lucknow,Uttar Pradesh,India,13,Advance,4.8,Active
+54,Modern Bath Industries,Megha Bhakta,jayaramancharvi@devan.com,1076226838,Ghaziabad,Uttar Pradesh,India,26,Net 60,4.8,Active
+55,Supreme Ranganathan Supplies,Rajata Bahl,ubrahmbhatt@sanghvi.com,6052975161,Kolkata,West Bengal,India,29,Net 15,5.0,Active
+56,Royal Rattan Traders,Meghana Mukherjee,timothy52@uppal.com,5523124329,Pune,Maharashtra,India,25,Net 30,4.6,Active
+57,Modern Tak Corporation,Saumya Naidu,matthew71@sathe-mitter.com,5814770054,Pune,Maharashtra,India,27,Advance,3.8,Active
+58,Future Tripathi Distributors,Turvi Barman,uguha@soni.com,1518203778,Ahmedabad,Gujarat,India,28,Net 45,3.7,Active
+59,Modern Patla Distributors,Barkha Ram,rnigam@ben.com,8644925192,Delhi,Delhi,India,23,Net 15,3.8,Active
+60,National Dayal Corporation,Dayita Puri,joshua81@sampath.com,4235733221,Ghaziabad,Uttar Pradesh,India,22,Net 60,3.8,Suspended
+61,Vertex Zacharia Solutions,Gayathri Deep,kdube@gandhi.info,6537947383,Delhi,Delhi,India,5,Net 30,3.4,Suspended
+62,Smart Pillai Traders,Triya Manda,hthakkar@edwin-iyengar.org,4075818141,Hyderabad,Telangana,India,21,Net 45,3.7,Active
+63,Royal Varghese Wholesale,Rajeshri Chand,shravyapalla@sachdeva.biz,3615305152,Hyderabad,Telangana,India,14,Net 60,3.4,Active
+64,Royal Sodhi Traders,Upasna Sen,buchanirudh@kale-doctor.net,1434103697,Ahmedabad,Gujarat,India,13,Net 45,3.1,Active
+65,Shree Wason Wholesale,Yutika Khurana,bishakhasanghvi@pandit.org,2185188888,Noida,Uttar Pradesh,India,23,Advance,4.4,Active
+66,Sunrise Bassi Enterprises,Kashvi Kulkarni,parikhekansh@khosla-chawla.org,2058527722,Noida,Uttar Pradesh,India,14,Net 30,4.1,Active
+67,Om Memon Supplies,Caleb Iyengar,muttidayita@rao.com,4505415667,Lucknow,Uttar Pradesh,India,14,Net 60,4.7,Active
+68,United Taneja Enterprises,Jhalak Venkataraman,fitan61@gole-memon.com,1544796275,Noida,Uttar Pradesh,India,16,Net 45,3.9,Active
+69,Future Saran Supplies,Dakshesh Borde,gpatla@dutta.org,0213556909,Bengaluru,Karnataka,India,11,Net 60,4.3,Active
+70,National Prabhu Distributors,Faraj Devan,mitali54@comar.com,8681447394,Lucknow,Uttar Pradesh,India,9,Net 15,3.3,Active
+71,Future Deshmukh Wholesale,Siya Gera,zchahal@nagarajan.net,4225831323,Bengaluru,Karnataka,India,16,Net 45,4.8,Active
+72,Om Pillay Manufacturing,Kai Chadha,moremitali@srinivas.biz,2517785289,Indore,Madhya Pradesh,India,9,Net 15,4.3,Active
+73,Elite Thakkar Enterprises,Jeet Vasa,dakshagala@naidu.com,8414384249,Kolkata,West Bengal,India,7,Net 60,3.9,Active
+74,Elite Ganguly Manufacturing,Onveer Nazareth,balakrishnanfinn@lanka.com,9078447364,Chennai,Tamil Nadu,India,27,Net 45,4.3,Suspended
+75,Supreme Dugar Solutions,Ojasvi Sule,vjani@dhawan.com,2588153714,Surat,Gujarat,India,21,Net 60,3.9,Inactive
+76,Green Chatterjee Supplies,Bina Rajagopalan,kkothari@munshi-gupta.com,8774701687,Kanpur,Uttar Pradesh,India,16,Net 30,4.5,Active
+77,Smart Pandit Retail,Chandresh Manda,ssinghal@anand.com,5650609835,Kanpur,Uttar Pradesh,India,22,Net 15,3.5,Active
+78,Sunrise Raju Distributors,Ati Dani,gunbirramesh@nori-pau.com,9868000257,Jaipur,Rajasthan,India,12,Net 30,4.8,Active
+79,Star Varma Distributors,Falak Nagar,mayamistry@nayar.net,9470551694,Indore,Madhya Pradesh,India,24,Net 15,4.4,Active
+80,Royal Lanka Solutions,Charan Srinivasan,lajitadivan@kibe.com,7562636897,Surat,Gujarat,India,15,Advance,3.4,Active
+81,Infinity Johal Traders,Vanya Vora,lmurthy@walia-oommen.net,4973348434,Indore,Madhya Pradesh,India,17,Advance,4.9,Active
+82,Om Nadig Enterprises,Ikshita Mahal,jairaj98@rana-pai.com,0415747338,Kolkata,West Bengal,India,17,Net 15,3.5,Active
+83,Om Devan Solutions,Wriddhish Kibe,waliupkaar@kaul.biz,7120826773,Indore,Madhya Pradesh,India,25,Net 15,4.7,Inactive
+84,Supreme Bhargava Retail,Vincent Warrior,gillomisha@bansal.info,4004991547,Delhi,Delhi,India,14,Net 60,4.1,Active
+85,Royal Desai Supplies,Anjali Hans,narayanannicholas@shanker.com,4932966851,Surat,Gujarat,India,7,Advance,3.5,Active
+86,Green Dey Solutions,Ekiya Kothari,lalleela@sekhon.com,9904530174,Noida,Uttar Pradesh,India,26,Net 45,3.6,Suspended
+87,Royal Mukhopadhyay Corporation,Chakrika Pillai,theodoredeol@dua-sha.org,6878339187,Bengaluru,Karnataka,India,17,Advance,4.5,Active
+88,Sai Choudhury Distributors,Yashasvi Jain,niteshnarang@sathe.org,1870728679,Bengaluru,Karnataka,India,26,Advance,4.5,Inactive
+89,United Morar Traders,Meghana Kumar,kamdarelijah@sampath.com,1704622656,Chennai,Tamil Nadu,India,9,Net 15,3.9,Active
+90,United Buch Manufacturing,Ijaya Dani,mayawadhwa@kapoor.com,7868633752,Jaipur,Rajasthan,India,26,Net 30,3.3,Active
+91,Elite Balay Supplies,Amol Khosla,ekalingachaudhuri@bandi.com,6738302843,Lucknow,Uttar Pradesh,India,5,Net 60,3.1,Active
+92,Om Nagi Enterprises,Chasmum Dhar,odikamital@bhat-gill.biz,0568566246,Ahmedabad,Gujarat,India,4,Net 60,4.4,Active
+93,Elite Khosla Corporation,Charita Dhawan,jbhardwaj@saha-wagle.com,3435175183,Hyderabad,Telangana,India,27,Net 60,4.6,Active
+94,Royal Baral Solutions,Raghav Kalla,vjoshi@aurora-kakar.com,7393638546,Bengaluru,Karnataka,India,18,Net 30,3.0,Active
+95,Future Morar Industries,Jagvi Varghese,gshukla@singh.com,6093204899,Nagpur,Maharashtra,India,13,Net 45,4.4,Active
+96,Apex Hayre Corporation,Victor Raghavan,xalaknazareth@suresh-swaminathan.info,5228728080,Kanpur,Uttar Pradesh,India,16,Net 45,4.7,Active
+97,Shree Sachar Distributors,Vihaan Bir,adityakamdar@shah.org,7008860084,Bengaluru,Karnataka,India,10,Net 45,3.5,Active
+98,Supreme Thakkar Enterprises,Praneel Chhabra,viswanathanmanthan@handa.net,5461567933,Noida,Uttar Pradesh,India,2,Net 45,4.7,Active
+99,United Chander Solutions,Ladli Purohit,obhalla@garg.info,5918033974,Jaipur,Rajasthan,India,12,Net 30,4.8,Active
+100,Smart Bali Retail,Divya Babu,maanasrao@mistry.org,9685621850,Delhi,Delhi,India,18,Net 15,3.2,Active
+101,Future Borra Retail,Mekhala Narain,mahajanshravya@kari-parekh.net,6296194311,Kolkata,West Bengal,India,24,Net 45,4.3,Active
+102,Global Dube Industries,Edhitha Patel,chandabdul@saxena-parsa.com,2126788861,Lucknow,Uttar Pradesh,India,9,Net 45,4.4,Active
+103,Infinity Chander Solutions,Lekha Arora,odika61@kibe.biz,2444721264,Kanpur,Uttar Pradesh,India,19,Net 60,3.7,Suspended
+104,Vertex Bose Solutions,Zayan Koshy,dhayre@deshmukh.com,5965756924,Ghaziabad,Uttar Pradesh,India,24,Net 45,3.5,Active
+105,Elite Srinivas Distributors,Peter Rao,bishakha79@nanda.com,5193982807,Noida,Uttar Pradesh,India,5,Net 60,4.9,Active
+106,United Biswas Distributors,Xalak Dewan,wyatt42@sampath.info,9688680589,Kanpur,Uttar Pradesh,India,10,Net 60,5.0,Active
+107,Sunrise Pant Industries,Chaitanya Ratta,qushi10@kuruvilla.net,7567982507,Ahmedabad,Gujarat,India,11,Net 15,3.7,Active
+108,Vertex Chada Supplies,Lucky Pall,hemal73@subramanian.com,7514010512,Jaipur,Rajasthan,India,3,Advance,4.1,Active
+109,Star Dutta Manufacturing,Pooja Shere,nidhigour@sankaran.com,7966033419,Hyderabad,Telangana,India,29,Advance,4.1,Active
+110,Green Pau Solutions,Ronith Shankar,lalavrishti@munshi.org,5579249912,Pune,Maharashtra,India,3,Net 30,4.9,Active
+111,National Mody Enterprises,Qadim Prakash,yastirama@devi-rajagopal.biz,7828274225,Kanpur,Uttar Pradesh,India,4,Net 60,4.3,Active
+112,Star Parmer Wholesale,Vedhika Deshpande,leenatiwari@talwar.biz,7219034043,Lucknow,Uttar Pradesh,India,4,Net 15,3.2,Active
+113,Supreme Shankar Wholesale,Yasti Chowdhury,loyaljeevika@barman.biz,3407451713,Kolkata,West Bengal,India,26,Net 60,3.8,Inactive
+114,Sunrise Sangha Wholesale,Liam Jhaveri,danielpanchal@mand.com,4948126042,Nagpur,Maharashtra,India,11,Net 60,4.2,Active
+115,Elite Nagy Distributors,Maya Suri,amrutasachdeva@seth-borra.com,8457759017,Ahmedabad,Gujarat,India,10,Advance,3.3,Active
+116,National Rao Supplies,Pushti Kakar,uloyal@nazareth-de.org,5001701277,Delhi,Delhi,India,15,Net 45,4.4,Active
+117,Prime Deo Distributors,Nathan Mahal,patelzashil@prabhu.com,6436110371,Lucknow,Uttar Pradesh,India,24,Net 30,4.4,Active
+118,Modern Venkataraman Corporation,Aditya Anand,jai62@bobal-karnik.biz,1155426221,Ahmedabad,Gujarat,India,15,Advance,4.1,Active
+119,Smart Gala Supplies,Indali Kala,nishasavant@chadha.com,9656523413,Bengaluru,Karnataka,India,3,Net 15,4.6,Active
+120,Infinity Mane Corporation,Charvi Jha,manyamerchant@bhagat.biz,3791805526,Surat,Gujarat,India,5,Net 45,4.4,Active
+121,Smart Gera Retail,Elijah Badal,atwaladweta@baral.biz,8666188924,Kanpur,Uttar Pradesh,India,16,Advance,4.2,Inactive
+122,Shree Vaidya Wholesale,Nachiket Yadav,mahika91@sarkar-khare.com,1617990421,Jaipur,Rajasthan,India,2,Advance,3.5,Active
+123,Infinity Gade Wholesale,Idika Virk,ojas52@luthra.com,4814917785,Delhi,Delhi,India,26,Net 30,4.2,Active
+124,Reliable Ganesan Manufacturing,Nakul Kumer,daliavedant@upadhyay.com,0756220863,Surat,Gujarat,India,10,Net 15,5.0,Active
+125,Future Nagarajan Industries,Faras Pradhan,thakkarcharles@kapoor.com,1744518705,Kanpur,Uttar Pradesh,India,13,Net 45,3.7,Active
+126,Reliable Modi Solutions,Ucchal Pillay,uhayre@korpal.biz,3850506413,Nagpur,Maharashtra,India,24,Net 45,3.6,Inactive
+127,Vertex Swamy Traders,Lucky Mammen,bassivincent@sachar.com,8261990623,Surat,Gujarat,India,4,Net 30,3.5,Active
+128,Om Ramaswamy Retail,Eesha Sethi,vivaan13@chopra.com,7756185374,Delhi,Delhi,India,23,Net 60,3.9,Active
+129,Apex Chana Solutions,Daksha Baria,falakdivan@kothari.biz,4420678831,Kanpur,Uttar Pradesh,India,22,Net 45,4.5,Active
+130,Vertex Dara Supplies,David Kapadia,rudrarattan@chad-lad.com,1372151070,Lucknow,Uttar Pradesh,India,16,Net 45,3.2,Suspended
+131,Supreme Rana Distributors,Ayushman Raja,wgera@grover.com,2099934768,Pune,Maharashtra,India,11,Net 60,3.0,Active
+132,Modern Mammen Industries,Laksh Saini,zaidbahl@parmer-srinivasan.net,5985642059,Surat,Gujarat,India,5,Net 15,4.0,Active
+133,Apex Bhardwaj Corporation,Ishita Kaul,harishkota@khosla.com,9652239559,Nagpur,Maharashtra,India,28,Net 45,5.0,Active
+134,Vertex Dhar Supplies,Waida More,vrittibarad@bhalla.org,0870593252,Indore,Madhya Pradesh,India,8,Net 60,4.0,Inactive
+135,National Divan Corporation,Indrajit Vora,elijah56@chaudhuri.com,2675289539,Nagpur,Maharashtra,India,12,Net 60,3.5,Active
+136,Sunrise Menon Wholesale,Peter Agarwal,lbali@nadkarni.info,5135521570,Kanpur,Uttar Pradesh,India,29,Net 15,3.9,Active
+137,Shree Bir Retail,Aahana Chokshi,bavalibni@saini-ganesan.biz,6586179327,Indore,Madhya Pradesh,India,16,Net 30,4.7,Suspended
+138,Modern Bahri Wholesale,Advika Cheema,oommenonkar@dyal-borde.net,5997062962,Indore,Madhya Pradesh,India,9,Net 45,3.1,Active
+139,Om Jha Enterprises,Nimrat Zachariah,baghyawati43@bawa.org,2050614973,Chennai,Tamil Nadu,India,17,Advance,3.3,Suspended
+140,Shree Garde Industries,Finn Solanki,morarmitali@suresh-lanka.com,2565270477,Surat,Gujarat,India,5,Net 60,4.8,Active
+141,Star Bhatia Enterprises,Gunbir Chada,odika93@bhat.biz,9374160898,Chennai,Tamil Nadu,India,4,Net 45,4.6,Active
+142,Supreme Dara Enterprises,Oscar Ganesh,reyanshdate@sampath.biz,2945116868,Bengaluru,Karnataka,India,29,Net 30,4.7,Inactive
+143,Om Shanker Solutions,Oni Chowdhury,jdoctor@chaudhry.com,6467997024,Kanpur,Uttar Pradesh,India,29,Net 60,3.1,Active
+144,Sunrise Ratti Distributors,Meghana Narula,chandransoman@pradhan-bahri.com,4471324754,Bengaluru,Karnataka,India,15,Advance,4.5,Active
+145,Elite Guha Manufacturing,Siddharth Ray,xvarty@varma.com,8628902330,Pune,Maharashtra,India,24,Net 30,4.8,Active
+146,Prime Bedi Corporation,Rushil Mahal,ucchal86@dasgupta.com,9727985524,Ghaziabad,Uttar Pradesh,India,13,Net 45,3.3,Active
+147,Infinity Raju Supplies,Nicholas Kala,umangjhaveri@rout-varghese.com,7229034944,Pune,Maharashtra,India,7,Advance,4.2,Active
+148,Modern Sharaf Manufacturing,Tejas Shukla,mekhala91@vaidya.com,4171545444,Chennai,Tamil Nadu,India,9,Net 45,4.3,Active
+149,Global Khosla Manufacturing,Netra Nagarajan,atharvtank@lad-sahota.biz,0993538758,Lucknow,Uttar Pradesh,India,23,Net 60,3.3,Active
+150,Sai Golla Wholesale,Gunbir Sinha,aarnagoswami@nayak.com,4655494717,Lucknow,Uttar Pradesh,India,22,Net 45,4.4,Active
+151,Sunrise Bobal Distributors,Robert Tella,rajchanchal@bhagat-dora.com,5697252175,Indore,Madhya Pradesh,India,29,Net 45,3.2,Active
+152,Sai Agrawal Wholesale,Anusha Kadakia,nathansuri@dayal.biz,6676008350,Lucknow,Uttar Pradesh,India,24,Net 30,3.0,Active
+153,Om Badami Corporation,Yuvraj Kara,devika21@thakur-mohan.com,0447898562,Delhi,Delhi,India,20,Advance,4.8,Active
+154,Sunrise Guha Distributors,Netra Bahl,udarshdeep@bains.net,1506489090,Ghaziabad,Uttar Pradesh,India,9,Net 15,4.2,Active
+155,Star D’Alia Industries,Sachi Rai,krishnanurvi@dua.com,1849926189,Mumbai,Maharashtra,India,11,Net 45,3.1,Active
+156,Star Cherian Industries,Rushil Iyengar,saksham56@dyal-baral.net,3753001197,Lucknow,Uttar Pradesh,India,12,Net 45,3.4,Active
+157,Vertex Borde Solutions,Aahana Kashyap,qminhas@bedi-chaudhry.com,4556110022,Jaipur,Rajasthan,India,28,Net 15,3.5,Active
+158,Future Loyal Corporation,Kashish Oommen,ishaanrattan@shan-magar.biz,6212021697,Noida,Uttar Pradesh,India,27,Advance,3.9,Active
+159,Modern Raghavan Enterprises,Ayush De,hsura@sastry-batra.com,5089935889,Ghaziabad,Uttar Pradesh,India,4,Net 45,3.0,Active
+160,Green Subramaniam Solutions,Lekha Dixit,aptenaksh@singh.com,5354083866,Jaipur,Rajasthan,India,20,Net 45,4.6,Inactive
+161,Elite Sawhney Distributors,Gaurang Tara,hmutti@badami-chauhan.biz,0880199488,Kanpur,Uttar Pradesh,India,2,Net 60,4.8,Active
+162,Supreme Patla Distributors,Udant Sha,urvashi57@chatterjee.com,5548851027,Bengaluru,Karnataka,India,22,Net 45,4.8,Active
+163,Royal Kumar Industries,Raghav Dara,dkale@nigam.biz,9177982708,Chennai,Tamil Nadu,India,3,Advance,3.6,Active
+164,Elite Subramanian Distributors,Oscar Dave,ramekanta@rajagopalan.com,5472269848,Chennai,Tamil Nadu,India,14,Net 45,3.7,Inactive
+165,Vertex Iyer Enterprises,Bina Pai,pranavthakur@naidu.net,9968460810,Chennai,Tamil Nadu,India,30,Net 45,4.3,Active
+166,Supreme Bhalla Enterprises,Amara Dyal,zashil20@merchant.com,1983863840,Jaipur,Rajasthan,India,3,Net 30,3.4,Active
+167,Modern Munshi Solutions,Agastya Krishnamurthy,saanvikar@pillai.com,2122816064,Hyderabad,Telangana,India,23,Net 30,4.1,Suspended
+168,Sai Dyal Traders,Abdul Narayanan,cdubey@naidu.com,7985158328,Indore,Madhya Pradesh,India,10,Net 15,4.9,Inactive
+169,Green Sagar Industries,George Palla,tanaynarula@patel-memon.com,8015739930,Ahmedabad,Gujarat,India,22,Net 60,4.9,Active
+170,Shree Raju Distributors,Barkha Bakshi,yoshita87@bassi-minhas.com,8112880133,Chennai,Tamil Nadu,India,27,Net 60,3.4,Active
+171,Vertex Yogi Distributors,Ekbal Dube,sharafgarima@chahal.com,4819346676,Ahmedabad,Gujarat,India,28,Net 15,3.7,Active
+172,Supreme Ramachandran Traders,Abeer Bhatnagar,boraishita@cherian.org,4766072832,Jaipur,Rajasthan,India,29,Net 15,5.0,Active
+173,Reliable Dhawan Industries,Kashvi Apte,jatinbarman@ramesh.net,4353682223,Delhi,Delhi,India,6,Advance,3.7,Active
+174,Infinity Contractor Solutions,Chatura Shenoy,mannanekalinga@chaudhari-hora.org,5523149135,Delhi,Delhi,India,7,Net 30,3.1,Active
+175,Apex Mohan Industries,Janya Mutti,aganguly@koshy-kant.biz,5257775478,Bengaluru,Karnataka,India,17,Net 45,4.6,Active
+176,Elite Bumb Manufacturing,Logan Yohannan,adyabose@borra.com,9308488725,Kolkata,West Bengal,India,21,Advance,4.5,Inactive
+177,Apex Mannan Corporation,Ucchal Thaker,ranganathanjanuja@anne.net,7229927503,Surat,Gujarat,India,22,Advance,3.1,Active
+178,Om Lalla Enterprises,Vivaan Basak,zarnapatel@singh-sha.com,5184498926,Hyderabad,Telangana,India,17,Net 45,3.1,Active
+179,Supreme Brahmbhatt Supplies,Krisha Kapoor,wpandit@subramaniam-ahuja.net,7231843222,Bengaluru,Karnataka,India,6,Net 30,4.2,Active
+180,Shree Karpe Enterprises,Ganga Comar,esrinivas@edwin.biz,3029922809,Lucknow,Uttar Pradesh,India,16,Net 60,4.2,Active
+181,Elite Kuruvilla Retail,Zansi Ravi,manderfrederick@sen.info,2369292984,Ahmedabad,Gujarat,India,15,Net 45,4.8,Active
+182,Green Biswas Enterprises,Kritika Rajan,ikbalbabu@virk.biz,9127990881,Nagpur,Maharashtra,India,25,Advance,3.6,Active
+183,Smart Zacharia Solutions,Raagini Vig,cprabhakar@wagle.info,5991624731,Chennai,Tamil Nadu,India,23,Net 45,3.1,Active
+184,National Rege Enterprises,Ranbir Ahluwalia,virkjacob@amble.com,5126944869,Hyderabad,Telangana,India,25,Net 30,4.6,Active
+185,Infinity Ranganathan Retail,Odika Subramanian,kamalasule@mohanty-padmanabhan.biz,1372138658,Noida,Uttar Pradesh,India,23,Advance,3.8,Inactive
+186,Royal Ramachandran Traders,Gavin Dhillon,fsaran@lall.com,9066984902,Lucknow,Uttar Pradesh,India,21,Net 30,3.7,Active
+187,United Jaggi Supplies,Robert Bandi,omkaarbanik@khare-acharya.com,4656693801,Kanpur,Uttar Pradesh,India,9,Advance,3.7,Active
+188,Elite Pall Corporation,Aradhana Kara,suhaniraval@agrawal.biz,8184518489,Kolkata,West Bengal,India,27,Net 45,4.7,Suspended
+189,Supreme Sule Wholesale,Harinakshi Shanker,ebala@kuruvilla.biz,3565880434,Delhi,Delhi,India,21,Net 30,3.1,Active
+190,Sunrise Borra Solutions,Vamakshi Murthy,tejas94@gupta.com,3433339521,Ghaziabad,Uttar Pradesh,India,2,Net 15,4.7,Active
+191,Om Ahuja Industries,Vasatika Prabhu,waida94@goswami-vaidya.com,3920867808,Chennai,Tamil Nadu,India,25,Advance,3.2,Active
+192,Om Shankar Enterprises,Zarna Sharma,abhiram03@chaudhuri-nanda.com,2843479552,Surat,Gujarat,India,12,Net 15,3.7,Active
+193,Infinity Saini Wholesale,Janya Rattan,shravya29@karnik.com,8663227026,Bengaluru,Karnataka,India,30,Advance,3.3,Active
+194,Prime Walla Industries,Vidhi Mital,champak61@gade.com,1754558845,Jaipur,Rajasthan,India,16,Net 45,4.0,Active
+195,Smart Panchal Distributors,Owen Mane,ekta87@sekhon.org,7225699611,Hyderabad,Telangana,India,13,Net 45,3.2,Active
+196,Infinity Murthy Manufacturing,Bishakha Loke,cmadan@verma-seshadri.biz,2023413261,Lucknow,Uttar Pradesh,India,3,Net 15,3.8,Active
+197,Global Bhagat Distributors,Mekhala Viswanathan,chawlaadweta@dugal.com,3472282005,Lucknow,Uttar Pradesh,India,8,Net 15,4.5,Active
+198,Elite Zachariah Traders,Sai Deshmukh,tanmayisaran@walla.info,1745642400,Kanpur,Uttar Pradesh,India,25,Net 45,3.4,Active
+199,Modern Mangat Retail,Abhiram Swamy,amistry@master-kashyap.com,3686632663,Ghaziabad,Uttar Pradesh,India,4,Net 45,4.7,Active
+200,Global Khatri Manufacturing,Bhavani Wali,nitara31@deshpande.com,9749735020,Bengaluru,Karnataka,India,29,Net 30,4.2,Active
+201,Royal Chaudry Corporation,Amruta Dass,oanand@dora.info,5647570512,Hyderabad,Telangana,India,14,Advance,4.9,Active
+202,Supreme Bora Manufacturing,Pratyush Handa,lakshmi01@kothari.com,3718376452,Ghaziabad,Uttar Pradesh,India,4,Net 45,4.7,Active
+203,Infinity Das Enterprises,Vasana Misra,jalsaben@kamdar.biz,0249163009,Bengaluru,Karnataka,India,14,Net 30,4.5,Active
+204,Reliable Prabhu Industries,Yuvraj Dugar,rchand@nigam.com,8127358573,Hyderabad,Telangana,India,18,Net 60,3.4,Active
+205,Sai Desai Supplies,Balveer Sundaram,imenon@suri.net,5749821827,Kolkata,West Bengal,India,5,Net 15,3.5,Active
+206,Star Peri Industries,Aadi Toor,bgoyal@patla.com,3878294565,Pune,Maharashtra,India,26,Net 45,3.9,Active
+207,Infinity Bhavsar Manufacturing,Kai Gokhale,jaggihredhaan@handa-chaudhary.com,7899405391,Noida,Uttar Pradesh,India,29,Net 30,3.3,Active
+208,Green Buch Corporation,Darsh Patel,ypillay@bhardwaj.com,4138113863,Jaipur,Rajasthan,India,20,Advance,3.7,Active
+209,Green Gola Manufacturing,Hitesh Parmar,gsane@gole.biz,2897558556,Mumbai,Maharashtra,India,3,Net 30,4.7,Active
+210,National Khosla Wholesale,Keya Kumar,sneha76@banerjee.org,8240433504,Indore,Madhya Pradesh,India,16,Net 60,4.1,Active
+211,Prime Dubey Manufacturing,Baljiwan Sharma,nachiket24@krish-kaul.com,1969315727,Ahmedabad,Gujarat,India,12,Net 60,4.0,Active
+212,Prime Mital Manufacturing,Lakshmi Brar,nattijaya@saha-dara.com,6048058925,Hyderabad,Telangana,India,27,Net 30,5.0,Active
+213,Reliable Bedi Traders,Sanaya Thaman,kapadiarachana@ramesh-divan.com,1790864168,Kolkata,West Bengal,India,24,Net 45,5.0,Active
+214,Supreme Srivastava Supplies,Vinaya Rana,yatinkibe@lata.com,1665535590,Ghaziabad,Uttar Pradesh,India,13,Net 30,3.8,Active
+215,Supreme Sathe Traders,Ridhi Basu,ryanprakash@chada.com,9240514770,Noida,Uttar Pradesh,India,4,Net 30,3.2,Active
+216,Sunrise Kakar Corporation,Aarna Subramanian,andrewpuri@vyas.com,4394070164,Chennai,Tamil Nadu,India,12,Advance,4.2,Active
+217,Sai Master Corporation,Vihaan Rai,muttivedhika@wali.com,8003845762,Indore,Madhya Pradesh,India,6,Net 60,4.4,Active
+218,Vertex Pant Enterprises,Warinder Thaker,david46@mammen.com,6216893639,Noida,Uttar Pradesh,India,28,Net 15,4.3,Active
+219,Apex Narayan Industries,Karan Jhaveri,samakshdevi@viswanathan-deshmukh.biz,9251881252,Nagpur,Maharashtra,India,18,Net 30,3.0,Active
+220,United Sabharwal Solutions,Saanvi Mahal,raghavchhabra@goyal.org,9993933051,Kanpur,Uttar Pradesh,India,8,Net 15,5.0,Active
+221,Sunrise Singh Industries,Qarin Ram,isom@hans.com,0463331279,Mumbai,Maharashtra,India,23,Net 30,4.8,Active
+222,Supreme Koshy Enterprises,Nidhi Barman,zmunshi@yadav.net,7703886086,Chennai,Tamil Nadu,India,7,Net 15,4.7,Active
+223,Reliable Manne Manufacturing,Mitali Modi,triya26@bhagat-varughese.com,7181298266,Mumbai,Maharashtra,India,15,Net 30,4.4,Active
+224,Green Gola Wholesale,Saksham Sha,krishnaekiya@gade.com,5186892686,Lucknow,Uttar Pradesh,India,26,Net 45,3.5,Active
+225,Future Doctor Distributors,Maanav Gola,sainidarika@sehgal-mani.com,2309407778,Ghaziabad,Uttar Pradesh,India,23,Net 60,5.0,Active
+226,Sunrise Khanna Enterprises,Vamakshi Setty,fsathe@ahuja.org,0220502099,Nagpur,Maharashtra,India,7,Net 15,4.6,Active
+227,Smart Bawa Traders,Omaja Gokhale,bhavanigoel@parsa-banik.com,5561681472,Kanpur,Uttar Pradesh,India,29,Net 30,4.1,Active
+228,Apex Vyas Industries,Shaurya Kadakia,chopragagan@mani-sane.org,4899529978,Lucknow,Uttar Pradesh,India,4,Net 15,3.5,Inactive
+229,Star Kaul Enterprises,Rishi Agarwal,bajwaudyati@dalal.biz,5583034414,Bengaluru,Karnataka,India,9,Net 45,4.8,Inactive
+230,Royal Naik Traders,Ishaan Nath,meghana99@gill.com,7702727857,Indore,Madhya Pradesh,India,18,Net 30,3.5,Suspended
+231,Sai Mistry Distributors,Anirudh Joshi,irya12@balasubramanian-nori.biz,9962914504,Delhi,Delhi,India,12,Advance,4.7,Active
+232,Star Khanna Supplies,Siya Mittal,chasmumgill@prasad.com,7807823578,Mumbai,Maharashtra,India,11,Net 45,4.4,Active
+233,Future Chaudhari Manufacturing,Samesh Bansal,tram@dalia.com,5701840943,Delhi,Delhi,India,30,Advance,3.0,Active
+234,Star Mangat Retail,Eiravati Sastry,mahajanmanthan@mahal.com,3858542493,Nagpur,Maharashtra,India,5,Net 30,3.5,Active
+235,Modern Nigam Enterprises,Chandresh De,sinhachandresh@rajagopal.com,6299795453,Surat,Gujarat,India,4,Advance,4.7,Active
+236,Vertex Deep Traders,Upadhriti Chatterjee,rmukherjee@shroff.com,9456255770,Kolkata,West Bengal,India,24,Net 15,3.6,Active
+237,Sai Panchal Distributors,Triya Garde,ijaya99@trivedi.biz,5814876963,Nagpur,Maharashtra,India,7,Advance,4.0,Active
+238,Apex Dutt Retail,Leena Bhatti,sathvik96@oommen-keer.com,9719975817,Delhi,Delhi,India,14,Net 45,3.1,Active
+239,Sai Boase Corporation,Ladli Narang,fbhat@dewan.com,2784699733,Delhi,Delhi,India,13,Advance,3.7,Active
+240,Elite Modi Wholesale,Hemangini Chakraborty,uppalnetra@menon.com,0851403696,Noida,Uttar Pradesh,India,6,Advance,3.7,Active
+241,Reliable Raj Manufacturing,Siddharth Ghose,mdewan@rajagopalan.com,2201027621,Kanpur,Uttar Pradesh,India,22,Net 15,4.6,Active
+242,Green Sandal Traders,Suhani Upadhyay,ysengupta@kara-grewal.biz,9738468950,Lucknow,Uttar Pradesh,India,8,Advance,4.6,Inactive
+243,Shree Pillay Corporation,Vasatika Buch,atishroff@brar.com,1894905807,Indore,Madhya Pradesh,India,28,Net 60,3.9,Active
+244,United Narula Corporation,Ira Menon,oliver09@modi.info,9049047128,Ghaziabad,Uttar Pradesh,India,29,Advance,4.7,Active
+245,Elite Deo Solutions,Anvi Kurian,choudhuryowen@dora.com,3728051292,Nagpur,Maharashtra,India,30,Net 45,4.5,Inactive
+246,Om Khanna Solutions,Oliver Kade,chatura41@ganesh.biz,4783667428,Pune,Maharashtra,India,17,Net 45,3.7,Active
+247,Smart Sen Industries,Diya Wagle,chatterjeeirya@mahajan-nayak.com,1496739385,Nagpur,Maharashtra,India,4,Net 45,4.2,Active
+248,Vertex Anne Corporation,Ekansh Arora,hchaudhari@sehgal.com,4300910939,Noida,Uttar Pradesh,India,5,Advance,3.7,Active
+249,Green De Wholesale,Qasim Choudhry,zehaanmenon@borra-setty.com,5421406650,Nagpur,Maharashtra,India,7,Net 45,3.7,Active
+250,Sai Sastry Wholesale,Vyanjana Iyer,pgokhale@chopra-dhawan.net,3917410119,Nagpur,Maharashtra,India,10,Advance,3.2,Active
+251,Sai Tank Retail,Aadi Barad,jlata@narayan.net,7661830671,Pune,Maharashtra,India,2,Net 15,4.7,Active
+252,Green Nath Traders,Nandini Bhakta,pauharini@sharaf.com,8063461571,Chennai,Tamil Nadu,India,4,Net 15,4.6,Active
+253,Om Banik Wholesale,Aryan Khare,eramachandran@morar.info,0505061387,Mumbai,Maharashtra,India,21,Net 15,4.4,Inactive
+254,Sai Kaul Manufacturing,Balhaar Dhaliwal,ebahl@bath.com,0417929111,Bengaluru,Karnataka,India,20,Net 15,4.1,Active
+255,Smart Kannan Distributors,Samaksh Sandhu,neelima51@devan.com,5114262582,Hyderabad,Telangana,India,2,Net 15,4.0,Active
+256,Vertex Baria Industries,Harish Puri,amolsur@ahuja.com,9467232487,Jaipur,Rajasthan,India,26,Net 30,4.4,Active
+257,Supreme Barad Corporation,Xalak Chakrabarti,ijaya60@keer.net,9588373403,Kanpur,Uttar Pradesh,India,8,Advance,3.3,Active
+258,Reliable Tank Manufacturing,Nathaniel Bassi,patlabhavani@saran.com,0108220781,Bengaluru,Karnataka,India,27,Net 30,4.3,Active
+259,Vertex Nanda Retail,Rushil Nanda,imarannanda@chaudhari.biz,6317970623,Lucknow,Uttar Pradesh,India,30,Net 30,4.7,Active
+260,Reliable Ram Solutions,Laban Shankar,jagratimadan@nayak.com,4217762534,Kolkata,West Bengal,India,5,Net 15,4.6,Active
+261,Future Garde Traders,Gabriel Sabharwal,lkalita@shere-mallick.com,3356939290,Ghaziabad,Uttar Pradesh,India,19,Net 60,3.7,Active
+262,Vertex Singhal Supplies,Pavani Wali,zsrinivas@chaudhari.com,8063254310,Bengaluru,Karnataka,India,4,Net 30,3.8,Active
+263,Future Sharaf Retail,Suhani Sheth,nidragoyal@shetty-agarwal.com,5804649893,Nagpur,Maharashtra,India,26,Net 45,4.6,Active
+264,Shree Bhakta Industries,Charan Choudhry,dpau@baria.com,8325381793,Surat,Gujarat,India,16,Net 60,3.7,Inactive
+265,Vertex Loke Wholesale,Aradhana Bhagat,pradhanhemani@sunder-thaker.net,7884795137,Pune,Maharashtra,India,26,Net 15,3.9,Inactive
+266,Prime Gola Industries,Faraj Chopra,anyachoudhury@divan.com,4682756704,Chennai,Tamil Nadu,India,11,Net 15,3.3,Inactive
+267,Modern Kata Solutions,Nisha Oza,vedika98@saxena.org,4243754025,Lucknow,Uttar Pradesh,India,29,Advance,3.5,Active
+268,Vertex Dyal Corporation,Qabil Gill,neelkhanna@barman.org,7452380552,Chennai,Tamil Nadu,India,22,Net 30,4.2,Active
+269,Reliable Gaba Wholesale,Jairaj Bakshi,xtata@shanker.com,8854749297,Chennai,Tamil Nadu,India,7,Net 60,4.4,Active
+270,Infinity Baria Traders,Jackson Morar,rattithomas@parikh-chanda.com,9398343018,Delhi,Delhi,India,4,Advance,4.9,Active
+271,Smart Ramesh Distributors,Vritti Nadkarni,patelmitali@sane.biz,0455478137,Nagpur,Maharashtra,India,21,Advance,4.0,Active
+272,Sunrise Gade Corporation,Oeshi Dewan,dhawansarthak@soman-vohra.com,9610646287,Kanpur,Uttar Pradesh,India,9,Net 45,3.6,Active
+273,Prime Grewal Supplies,Bimala Swaminathan,mittaldaksha@sheth-kapur.com,2447146273,Surat,Gujarat,India,15,Net 45,3.9,Active
+274,Star Tailor Solutions,Janaki Srivastava,okuruvilla@soni.net,4290257252,Noida,Uttar Pradesh,India,25,Net 30,5.0,Active
+275,Sai Saini Retail,Chanakya Mann,faraj83@goswami.net,5445189520,Hyderabad,Telangana,India,12,Net 15,3.9,Active
+276,Modern Pradhan Supplies,Nisha Oak,harshkamdar@thakur.com,6711207545,Hyderabad,Telangana,India,3,Net 30,4.9,Inactive
+277,Royal Virk Distributors,Orinder Modi,danitristan@dhar.com,2321611076,Pune,Maharashtra,India,28,Net 30,4.9,Active
+278,United Bali Supplies,Upasna Dani,caleb14@anne.org,9325012495,Kanpur,Uttar Pradesh,India,18,Net 45,4.0,Active
+279,Global Khurana Industries,Hardik Atwal,rehaanmanda@yogi.com,8759271256,Indore,Madhya Pradesh,India,18,Net 45,4.9,Active
+280,Sai Kari Traders,Isaiah Murthy,shuklaimaran@deshpande.com,1571647947,Mumbai,Maharashtra,India,11,Net 45,4.2,Active
+281,Future Mannan Corporation,Ranbir Boase,lpillai@swamy.com,7811266912,Delhi,Delhi,India,29,Advance,3.9,Inactive
+282,Sai Nigam Enterprises,Netra Das,paninitata@mahajan-ratta.com,9678427114,Ghaziabad,Uttar Pradesh,India,3,Net 45,3.1,Active
+283,Sai Desai Retail,Hardik Bera,taraavi@raja.com,4991187734,Lucknow,Uttar Pradesh,India,4,Net 45,4.0,Active
+284,Smart Lal Wholesale,Andrew Balay,ydani@murty-puri.info,0028427624,Hyderabad,Telangana,India,6,Advance,3.8,Active
+285,Shree Swaminathan Retail,Vamakshi Dugar,ramanadya@purohit-pandit.com,0090255905,Ghaziabad,Uttar Pradesh,India,26,Net 15,3.4,Active
+286,Apex Pai Traders,Nisha Panchal,kondayug@muni.com,4152085076,Mumbai,Maharashtra,India,3,Net 15,4.4,Active
+287,Apex Loke Manufacturing,Upasna Bains,krishna96@chaudhari-suresh.com,5785294563,Chennai,Tamil Nadu,India,21,Net 60,3.3,Inactive
+288,Shree Kala Supplies,Alka Batta,neelima39@chanda.com,9876351484,Indore,Madhya Pradesh,India,21,Net 30,4.2,Active
+289,Apex Iyengar Retail,Neelima Krishnamurthy,bgole@varty.com,4896908357,Kanpur,Uttar Pradesh,India,24,Net 60,3.6,Active
+290,Sai Mital Solutions,Nirja Nagar,janinitara@mangat-dyal.com,6312303477,Hyderabad,Telangana,India,15,Net 60,3.6,Inactive
+291,Global Bansal Wholesale,Nathaniel Mahajan,ayushkuruvilla@goda-basak.info,0159416516,Kanpur,Uttar Pradesh,India,10,Net 60,4.2,Active
+292,Infinity Tella Manufacturing,Zayan Taneja,khannajason@narayan-ramakrishnan.com,3212347649,Pune,Maharashtra,India,18,Net 60,4.5,Active
+293,Modern Prasad Traders,Edhitha Sampath,rkoshy@patil.com,0900348645,Hyderabad,Telangana,India,8,Advance,3.9,Active
+294,Royal Savant Distributors,Abhiram Ramaswamy,charvi13@kade-dyal.info,6041776561,Nagpur,Maharashtra,India,18,Net 60,4.8,Inactive
+295,Prime Bhatti Supplies,Osha Narain,wbala@gour.info,0634591123,Ahmedabad,Gujarat,India,19,Net 30,5.0,Active
+296,Om Roy Solutions,Siya Sridhar,abhaghose@narang.com,5266930089,Pune,Maharashtra,India,16,Net 60,3.7,Active
+297,Smart Issac Wholesale,Om Bawa,msanghvi@dixit-chakraborty.com,9108677133,Kanpur,Uttar Pradesh,India,8,Net 15,3.6,Active
+298,Sunrise Talwar Corporation,Kalpit Sankar,tanveermandal@gulati.biz,0443973597,Ahmedabad,Gujarat,India,24,Net 45,3.6,Active
+299,Smart Deol Corporation,Mitali Kala,vsampath@kunda.net,0537599004,Hyderabad,Telangana,India,20,Net 60,3.8,Suspended
+300,Sai Mittal Supplies,Kamala Deo,golaabha@thakur.com,2158624150,Lucknow,Uttar Pradesh,India,3,Net 30,4.9,Active
+301,Green Patel Corporation,Barkha Lall,zansi56@mutti.info,8703203207,Kanpur,Uttar Pradesh,India,8,Net 15,4.7,Active
+302,Vertex Sarin Corporation,Warda Baria,tparikh@sundaram.com,1513422849,Chennai,Tamil Nadu,India,5,Net 60,4.5,Active
+303,Prime Agrawal Retail,Omaja Bose,wishichandra@bal-mane.com,5915201777,Kolkata,West Bengal,India,22,Net 15,3.1,Active
+304,Future Narayan Industries,Sneha Nair,siddharthbava@mandal.com,1642361032,Chennai,Tamil Nadu,India,2,Net 60,5.0,Active
+305,Future Dube Manufacturing,Chanchal Swaminathan,rmukherjee@deep.com,7767499616,Ahmedabad,Gujarat,India,26,Net 30,3.6,Active
+306,National Saraf Wholesale,Girik Baria,ubika32@vyas-vohra.com,7617422438,Kolkata,West Bengal,India,19,Advance,4.8,Active
+307,Reliable Batta Traders,Chakradev Varghese,uppalpavani@chandra-shetty.org,5491801722,Indore,Madhya Pradesh,India,27,Net 45,3.4,Active
+308,Sunrise Saha Traders,Dipta Sha,vlanka@kakar.com,1680061027,Delhi,Delhi,India,11,Net 60,4.2,Inactive
+309,Shree Sur Corporation,Jalsa Rana,gagan22@halder.com,0372368314,Surat,Gujarat,India,22,Net 60,4.0,Inactive
+310,Star Sami Retail,Jackson Ganesan,saisundaram@bahri-sengupta.org,3496050166,Surat,Gujarat,India,10,Net 15,4.6,Active
+311,Green Mannan Corporation,Vinaya Ratta,lvarghese@sura.net,6958146717,Pune,Maharashtra,India,2,Net 30,4.6,Active
+312,United Sarin Supplies,Neel Mani,upasnapadmanabhan@kata-tripathi.com,9724665729,Indore,Madhya Pradesh,India,28,Net 45,4.0,Active
+313,Elite Subramanian Supplies,Oscar Iyengar,vyanjanachaudhuri@tak-mitter.com,8005452280,Chennai,Tamil Nadu,India,17,Net 30,4.9,Active
+314,Om Comar Distributors,Jai Kapur,vkuruvilla@batra-loke.com,0771199180,Surat,Gujarat,India,26,Net 30,4.9,Active
+315,Infinity Dalal Traders,Janaki Dugar,riya87@chaudhary.com,1376037548,Jaipur,Rajasthan,India,22,Net 30,4.4,Active
+316,Elite Pradhan Manufacturing,Jalsa Korpal,oviyakari@sanghvi.biz,8507208115,Lucknow,Uttar Pradesh,India,7,Net 45,4.4,Inactive
+317,Sunrise Saraf Industries,Maya Bansal,dalbirvenkatesh@saini-ratti.net,5504892673,Lucknow,Uttar Pradesh,India,13,Net 60,3.4,Suspended
+318,Future Sathe Supplies,Nidhi Hora,frado08@ramakrishnan-date.net,3188485200,Surat,Gujarat,India,25,Net 60,3.7,Active
+319,Future Khurana Retail,Pahal Tiwari,bhasinkashish@tripathi-pandya.com,1749075399,Ahmedabad,Gujarat,India,26,Net 15,4.4,Active
+320,National Palla Retail,Bhavani Dey,vvenkatesh@cheema.net,5712661106,Surat,Gujarat,India,18,Net 30,3.2,Active
+321,Prime Sehgal Retail,Kala Vora,xvenkataraman@lalla-tara.biz,7622827728,Ahmedabad,Gujarat,India,20,Net 60,3.3,Active
+322,Apex Shah Manufacturing,Bachittar Dugar,jagat96@dara.org,0821545447,Hyderabad,Telangana,India,23,Net 15,4.4,Active
+323,Apex Sama Manufacturing,Dalaja Mander,qadimsuresh@das.com,0679497567,Mumbai,Maharashtra,India,16,Net 15,4.0,Active
+324,Prime Thaman Retail,Shivani Sen,eshanachakraborty@rout.biz,8074120948,Surat,Gujarat,India,23,Net 30,4.4,Active
+325,Global Hans Distributors,Ranbir Soni,darapranit@maharaj.com,1895690705,Bengaluru,Karnataka,India,3,Net 45,3.7,Active
+326,Prime Bajwa Industries,Lavanya Kurian,contractorhardik@ganguly.com,1246209520,Kanpur,Uttar Pradesh,India,3,Net 30,3.8,Active
+327,Royal Chaudhary Solutions,Lucky Sachar,aarna61@jain.org,7886140578,Indore,Madhya Pradesh,India,16,Net 45,3.8,Active
+328,Vertex Balakrishnan Supplies,Vivaan Bahl,harrison38@dass.info,8325823868,Ghaziabad,Uttar Pradesh,India,5,Net 15,5.0,Active
+329,Star Shetty Distributors,Oliver Acharya,subramaniamanjali@krishna.com,0289141612,Delhi,Delhi,India,26,Advance,5.0,Active
+330,Vertex Kade Enterprises,Hema Lal,pmahajan@nagy.info,0209700268,Indore,Madhya Pradesh,India,28,Net 15,3.5,Active
+331,Smart Bumb Distributors,Azaan Saxena,panditkrisha@parmar.com,7537030453,Hyderabad,Telangana,India,3,Net 45,4.2,Inactive
+332,Global Kant Distributors,Wakeeta Patil,mandwaida@kadakia.biz,4987283999,Ahmedabad,Gujarat,India,4,Advance,4.2,Active
+333,Prime Dave Distributors,Joshua Lad,anushahanda@bajaj.net,0605664187,Mumbai,Maharashtra,India,14,Net 45,3.5,Active
+334,Prime Bassi Supplies,Champak Mall,cwalia@ahluwalia-ramanathan.com,1903613325,Lucknow,Uttar Pradesh,India,9,Net 60,3.6,Active
+335,Shree Bala Distributors,Rachana Bajwa,zashil31@khare-oak.com,8319971791,Lucknow,Uttar Pradesh,India,30,Net 15,5.0,Active
+336,Royal Purohit Corporation,Dhruv Datta,sathechristopher@sankaran-bhatti.com,8046619639,Jaipur,Rajasthan,India,3,Net 60,4.9,Inactive
+337,Reliable Rajagopalan Enterprises,Priya Chaudhuri,atharv78@hans-chokshi.com,9193928456,Kanpur,Uttar Pradesh,India,3,Net 30,4.9,Active
+338,Apex Grewal Solutions,Laksh Basu,dattadevika@sarin.com,2749545089,Nagpur,Maharashtra,India,15,Net 15,3.6,Active
+339,Vertex Tripathi Manufacturing,Pahal Padmanabhan,saijaggi@om.info,9599594652,Kolkata,West Bengal,India,29,Net 15,3.6,Active
+340,Green Tandon Traders,Aarush Kapoor,unnatikala@srivastava.com,3620501508,Nagpur,Maharashtra,India,15,Net 60,4.1,Active
+341,Smart Sarraf Distributors,Jagvi Bassi,issacrudra@ghosh-kanda.com,5832302410,Noida,Uttar Pradesh,India,22,Advance,4.8,Active
+342,National Nigam Retail,Dalaja Shan,kalapradhan@garg.com,2233865596,Ahmedabad,Gujarat,India,3,Net 30,3.8,Active
+343,Prime Gulati Industries,Manthan Narang,chatreshmammen@trivedi.info,1791286857,Ahmedabad,Gujarat,India,27,Net 60,4.4,Active
+344,Future Nagy Distributors,Vasudha Talwar,lloyal@bansal-johal.com,7363466925,Noida,Uttar Pradesh,India,11,Advance,3.4,Active
+345,Elite Desai Manufacturing,Chakrika Saxena,victor90@vala-nayar.biz,7665754602,Kolkata,West Bengal,India,24,Net 60,4.4,Active
+346,Modern Borra Retail,Fitan Menon,malhotravedant@dani.com,8353544439,Noida,Uttar Pradesh,India,26,Net 30,3.8,Active
+347,Sai Anand Corporation,Baghyawati Pal,lravi@arora.com,3337389877,Jaipur,Rajasthan,India,13,Net 60,4.8,Active
+348,Future Guha Solutions,Omisha Kadakia,jsengupta@prasad.org,4075536668,Ahmedabad,Gujarat,India,13,Net 30,3.8,Active
+349,Modern Bajaj Supplies,Liam Dube,mahika63@bhatt-warrior.biz,7159741218,Delhi,Delhi,India,10,Net 60,4.9,Active
+350,Royal Suresh Corporation,Rachit Issac,rajubhanumati@kaul.net,7058025662,Chennai,Tamil Nadu,India,8,Net 30,3.5,Active
+351,Modern Sahota Manufacturing,Ekapad Ramachandran,kalpitjha@sankaran-soman.com,9387430271,Noida,Uttar Pradesh,India,10,Net 45,4.9,Active
+352,Future Vora Manufacturing,Vritti Sharma,vbaral@mani.info,4692632967,Pune,Maharashtra,India,25,Net 30,3.3,Active
+353,Future Chandran Supplies,Caleb Khatri,anushayogi@bhavsar-kalla.info,8151185672,Mumbai,Maharashtra,India,18,Advance,4.7,Active
+354,Prime Basu Traders,Avi Bora,vraj@rastogi.com,4125777118,Nagpur,Maharashtra,India,6,Net 15,3.1,Active
+355,United Sinha Retail,Neel Garde,chaudhrypeter@dash-warrior.biz,1042752308,Surat,Gujarat,India,13,Advance,4.2,Active
+356,Supreme Virk Manufacturing,Madhavi Morar,mben@bava.com,5331060053,Kanpur,Uttar Pradesh,India,2,Advance,4.1,Active
+357,Global Ganesh Retail,Chaitanya Sagar,narainekantika@gupta.biz,3315520650,Jaipur,Rajasthan,India,19,Net 30,3.0,Active
+358,Royal Kannan Supplies,Arya Pillay,bhavsartejas@mitra-tata.com,4195625257,Hyderabad,Telangana,India,5,Net 60,3.3,Active
+359,Apex Sen Corporation,Yasti Kaul,kaulansh@dash.biz,9102574326,Ghaziabad,Uttar Pradesh,India,10,Net 45,3.2,Suspended
+360,Green Sawhney Wholesale,Krish Mall,balveer86@mani.com,3380339685,Kolkata,West Bengal,India,24,Net 15,3.6,Active
+361,National Bhattacharyya Traders,Ekaraj Hans,dhaliwalsamarth@chand.org,3816742336,Bengaluru,Karnataka,India,14,Net 45,3.8,Active
+362,Global Mitter Supplies,Saumya Jaggi,vasana15@purohit-ganesh.info,6896270661,Bengaluru,Karnataka,India,17,Net 45,4.3,Active
+363,Elite Dua Retail,Aarini Rai,dmohan@prashad-srivastava.com,2732300857,Mumbai,Maharashtra,India,9,Net 15,4.8,Active
+364,Infinity Prakash Manufacturing,Vrishti Morar,regebalvan@rajan.com,6458750663,Jaipur,Rajasthan,India,3,Advance,4.4,Active
+365,Vertex Pathak Wholesale,Manbir Lal,qdin@edwin.com,6691836264,Mumbai,Maharashtra,India,7,Net 30,3.0,Active
+366,Star Raja Enterprises,Nisha Chakraborty,padmanabhanluke@kadakia-rao.com,2701168646,Bengaluru,Karnataka,India,11,Net 15,4.1,Active
+367,Om Grewal Retail,Rudra Sur,yadavichoudhary@kala-grewal.com,2346791214,Noida,Uttar Pradesh,India,14,Net 15,4.6,Active
+368,National Malhotra Retail,Hema Balan,vanyasundaram@chaudhuri.com,9013806984,Ghaziabad,Uttar Pradesh,India,3,Advance,3.9,Active
+369,Shree Sanghvi Wholesale,Kamala Oza,wriddhish56@bhandari-parekh.com,0762091843,Indore,Madhya Pradesh,India,26,Net 30,3.1,Active
+370,Green Soman Manufacturing,Raghav Aggarwal,anay50@nanda.org,6915671649,Kolkata,West Bengal,India,13,Net 60,4.9,Active
+371,Infinity Thaman Enterprises,Joshua Tank,mitraunni@sehgal.info,3321160256,Bengaluru,Karnataka,India,26,Net 60,3.6,Active
+372,National Soni Industries,Laban Warrior,ychana@natarajan.com,6863341411,Jaipur,Rajasthan,India,6,Net 45,4.4,Active
+373,Om Guha Solutions,Jhalak Datta,lajita90@bhatia-wason.com,6552899316,Ghaziabad,Uttar Pradesh,India,5,Advance,3.0,Active
+374,Sai Mutti Corporation,Chaman Kanda,jshah@mander.org,4814973746,Hyderabad,Telangana,India,6,Advance,3.4,Active
+375,Vertex Kade Retail,Charles Gola,tramanathan@dutta.com,7566184438,Nagpur,Maharashtra,India,5,Advance,3.2,Active
+376,Supreme Naik Wholesale,Daksha Shankar,lakshsathe@subramanian.com,3059126620,Noida,Uttar Pradesh,India,29,Net 45,3.0,Active
+377,National Gola Retail,Jacob Varma,radha26@bandi.com,7492617647,Kolkata,West Bengal,India,20,Net 60,3.3,Active
+378,Star Dada Corporation,Jairaj Suresh,arinsrinivasan@chandra-golla.biz,6492151826,Lucknow,Uttar Pradesh,India,10,Net 45,3.3,Active
+379,Smart Yadav Enterprises,Devansh Venkataraman,johaljacob@gole.net,5102932184,Lucknow,Uttar Pradesh,India,17,Advance,3.7,Inactive
+380,Future Toor Wholesale,Januja Garg,pacharya@batra-venkataraman.com,2975859883,Ahmedabad,Gujarat,India,16,Advance,3.3,Active
+381,Om Bansal Solutions,Lucky Mistry,krishkalita@parmer.org,1844626714,Indore,Madhya Pradesh,India,27,Net 30,3.9,Active
+382,Supreme Jani Supplies,Amruta Hans,yasti92@dube-mutti.biz,0931418186,Lucknow,Uttar Pradesh,India,12,Net 60,4.9,Active
+383,Shree Patil Supplies,Anjali Dhingra,anushaanne@purohit.biz,1284971859,Indore,Madhya Pradesh,India,12,Net 30,4.5,Active
+384,Infinity Chaudhary Distributors,Onkar Nadkarni,wgolla@wali.org,4082226940,Noida,Uttar Pradesh,India,14,Net 30,4.6,Active
+385,Elite Sahota Wholesale,Qadim Sarna,upadhriti84@sangha-verma.com,1465111312,Ahmedabad,Gujarat,India,20,Net 60,3.4,Active
+386,Global Mangal Manufacturing,Advaith Samra,varshatank@walia.com,0685389097,Ahmedabad,Gujarat,India,16,Net 30,4.7,Active
+387,Royal Gill Manufacturing,Jeevika Deol,charan67@garde-prakash.com,3814474430,Chennai,Tamil Nadu,India,22,Net 30,3.5,Active
+388,Royal Mody Enterprises,Ubika Sura,parekhabeer@sharma.com,0526501673,Bengaluru,Karnataka,India,16,Net 60,4.0,Active
+389,Apex Dube Enterprises,Jatin Sura,dugalzashil@singhal.com,5628417722,Mumbai,Maharashtra,India,27,Net 30,4.4,Active
+390,Supreme Parmer Industries,Indrajit Gupta,banjeet26@narula-balay.com,7416787256,Hyderabad,Telangana,India,26,Net 15,4.3,Active
+391,Supreme Choudhary Traders,Ansh Date,hemanginitella@khalsa.com,9067447163,Indore,Madhya Pradesh,India,26,Net 30,4.9,Active
+392,Global Grover Industries,Avni Contractor,yug63@chauhan-thakkar.org,3923126043,Jaipur,Rajasthan,India,9,Net 60,4.5,Active
+393,Infinity Iyengar Distributors,Charan Rai,tvohra@kashyap.biz,0860414545,Surat,Gujarat,India,13,Net 45,3.9,Active
+394,Apex Batta Supplies,Banjeet Acharya,nagysimon@sodhi-mammen.org,6247554110,Ghaziabad,Uttar Pradesh,India,2,Net 45,3.2,Active
+395,National Patel Industries,Kamya Khanna,shivansh96@cherian.org,0933711895,Chennai,Tamil Nadu,India,13,Net 30,3.7,Active
+396,Apex Walla Manufacturing,Caleb Datta,omyakrishnan@palan.com,1768802942,Ghaziabad,Uttar Pradesh,India,17,Advance,3.9,Active
+397,Shree Bhat Industries,Mitali Talwar,gandhiraksha@rajagopalan.org,3202939087,Lucknow,Uttar Pradesh,India,3,Advance,3.0,Active
+398,Elite Mitter Supplies,Chaman Loyal,gargudarsh@walla.com,2424033810,Kolkata,West Bengal,India,18,Net 15,4.1,Active
+399,Royal Nair Manufacturing,Aishani Deol,umenon@anne.com,2408916498,Kolkata,West Bengal,India,27,Net 45,4.3,Active
+400,Royal Nair Enterprises,Samar Rana,sanayakata@saraf.info,7272239724,Delhi,Delhi,India,25,Net 60,4.8,Active
+401,Royal Goel Enterprises,Raghav Boase,ekbalsandhu@sha.biz,8209166010,Delhi,Delhi,India,24,Net 15,3.4,Active
+402,National Chacko Wholesale,Luke Arya,cherianhamsini@chada.info,2457230848,Hyderabad,Telangana,India,27,Net 60,3.4,Active
+403,Green Chauhan Industries,Harshil Vaidya,adhar@bajwa.biz,2543617213,Jaipur,Rajasthan,India,23,Net 45,4.1,Active
+404,Supreme Bose Enterprises,Jagat Patel,bassimatthew@sangha.com,6249451475,Indore,Madhya Pradesh,India,20,Advance,3.7,Active
+405,Supreme Dixit Supplies,Ekaja Divan,usekhon@bhavsar-chowdhury.org,4215226557,Lucknow,Uttar Pradesh,India,21,Net 60,3.2,Active
+406,Elite Nath Distributors,Yatan Rajagopal,itank@tailor.com,1968931350,Lucknow,Uttar Pradesh,India,5,Net 15,3.7,Active
+407,Om Som Enterprises,Imaran Bhasin,jalsa24@dhawan-sama.com,3021260650,Chennai,Tamil Nadu,India,20,Net 45,3.8,Active
+408,Vertex Sood Supplies,Ayushman Din,lohit13@arora.biz,2728476570,Pune,Maharashtra,India,17,Net 30,3.3,Active
+409,Green Bhasin Wholesale,Oscar Thakur,advayrandhawa@sha-kuruvilla.org,3624186236,Mumbai,Maharashtra,India,29,Net 30,4.9,Active
+410,United Ramanathan Enterprises,Faras Sidhu,pmunshi@ravel.com,6341115950,Kanpur,Uttar Pradesh,India,15,Net 45,3.8,Active
+411,Future Chhabra Supplies,Siddharth Apte,raghav83@bali.com,9700514054,Bengaluru,Karnataka,India,20,Advance,4.6,Active
+412,Prime Murty Corporation,Ishani Dayal,narulanikita@thakur.com,9679042271,Kolkata,West Bengal,India,19,Net 30,3.3,Active
+413,Future Dhaliwal Retail,Yachana Varty,sara25@parsa-sankar.com,3399129710,Hyderabad,Telangana,India,20,Advance,3.5,Active
+414,Sai Chahal Retail,Girindra Sha,omkaar42@mammen.com,1127474721,Mumbai,Maharashtra,India,26,Net 45,4.1,Suspended
+415,Elite Patla Distributors,Nandini Rege,ridhiperi@murthy.biz,4090380214,Lucknow,Uttar Pradesh,India,29,Advance,3.9,Active
+416,National Rastogi Manufacturing,Udant Rama,wchander@sidhu-warrior.info,1216636515,Hyderabad,Telangana,India,26,Net 15,3.4,Active
+417,Sai Kala Wholesale,Ishwar Mallick,ibarad@singhal.com,9096056730,Nagpur,Maharashtra,India,7,Net 60,3.3,Active
+418,United Madan Traders,Patrick Chacko,ekapadmahal@bumb-misra.info,8342016542,Ghaziabad,Uttar Pradesh,India,19,Net 30,4.2,Active
+419,Sunrise Subramaniam Corporation,Naveen Sarkar,lopa08@issac.com,0272751648,Jaipur,Rajasthan,India,29,Net 60,5.0,Active
+420,Elite Sengupta Supplies,Balhaar Kamdar,oshaganesan@purohit.com,9055044817,Nagpur,Maharashtra,India,3,Net 30,4.7,Active
+421,Star Pandey Distributors,Pooja Virk,ishaan27@prakash-goel.net,8664649111,Chennai,Tamil Nadu,India,24,Net 30,4.7,Active
+422,Om Sabharwal Manufacturing,Watika Chaudhry,lthakur@mann.com,7861371576,Chennai,Tamil Nadu,India,20,Net 30,4.3,Active
+423,National Kapur Industries,Amrita Lalla,oeshi30@bali-aurora.com,5895529638,Indore,Madhya Pradesh,India,18,Net 30,4.4,Inactive
+424,Green Ramaswamy Manufacturing,Pushti Dave,zghose@varughese-dutt.biz,1281964825,Noida,Uttar Pradesh,India,20,Advance,4.7,Active
+425,National Bal Manufacturing,Advay Dua,brarlavanya@de.com,3343836404,Ghaziabad,Uttar Pradesh,India,29,Advance,4.6,Active
+426,Royal Chauhan Distributors,Tripti Das,dharbarkha@gole-chander.com,5361706171,Kanpur,Uttar Pradesh,India,10,Net 30,4.7,Active
+427,Infinity Murthy Supplies,Naveen Gole,advaith29@balay.com,9980284139,Kanpur,Uttar Pradesh,India,27,Net 30,4.8,Active
+428,Prime Vasa Industries,Tarak Patla,kallaayushman@devi-kannan.com,4473158477,Surat,Gujarat,India,2,Advance,4.9,Active
+429,Green Hans Traders,Oscar Hora,maya19@muni.info,7694591966,Nagpur,Maharashtra,India,8,Net 15,4.8,Active
+430,Smart Prakash Industries,Shivani Ganesh,vaidyazehaan@rout.com,0125625313,Ghaziabad,Uttar Pradesh,India,10,Advance,3.7,Inactive
+431,Reliable Murthy Traders,Aditya Nagar,narasimhantanay@nagy-kaul.net,6493831849,Indore,Madhya Pradesh,India,22,Net 30,4.5,Active
+432,Royal Saran Industries,Ekaja Hora,chandrantak@batra-maharaj.biz,1729596390,Hyderabad,Telangana,India,2,Net 15,4.0,Active
+433,Modern Agrawal Retail,Bhavani Deep,ibansal@baral.com,1644556185,Surat,Gujarat,India,2,Advance,4.4,Active
+434,Royal Ramaswamy Supplies,Suhani Tak,prakashharshil@kapur.com,1563213580,Kanpur,Uttar Pradesh,India,4,Net 15,3.8,Active
+435,Elite Choudhry Industries,Daksha Borde,forum96@garde-devi.org,1252967188,Noida,Uttar Pradesh,India,13,Net 30,3.3,Active
+436,Star Suri Supplies,Ekanta Subramanian,georgelalla@butala-pandit.net,3117030376,Bengaluru,Karnataka,India,18,Net 60,3.0,Active
+437,Green Oak Solutions,Yoshita Munshi,sudiksha28@de.com,7983631462,Ahmedabad,Gujarat,India,22,Net 15,4.8,Active
+438,Green Din Distributors,Hredhaan Choudhary,amolsharma@loke.info,5418156326,Bengaluru,Karnataka,India,30,Advance,3.3,Active
+439,Om Nath Solutions,Ridhi Mahajan,guneet06@sami.com,2948978610,Nagpur,Maharashtra,India,12,Net 15,3.5,Active
+440,Modern Contractor Retail,Balendra Lata,dominicwali@majumdar.org,6613473235,Lucknow,Uttar Pradesh,India,26,Advance,4.7,Active
+441,Sunrise Aggarwal Distributors,Qasim Thakur,smody@garde.com,2572076502,Ahmedabad,Gujarat,India,25,Net 45,3.6,Active
+442,Modern Andra Manufacturing,Urvi Agarwal,ekota@bath.org,3882211457,Indore,Madhya Pradesh,India,5,Net 15,4.0,Active
+443,Apex Kurian Traders,Zehaan Patla,warya@nath-vasa.org,1480263257,Ghaziabad,Uttar Pradesh,India,12,Net 15,3.8,Active
+444,Royal Sankar Solutions,Samuel Chakraborty,krishnachokshi@sengupta-vyas.com,5569644309,Pune,Maharashtra,India,26,Net 45,4.9,Active
+445,Global Das Wholesale,Suhani Palan,imaran07@din.net,9824741407,Bengaluru,Karnataka,India,2,Net 30,3.4,Inactive
+446,Om Dasgupta Retail,Vrinda Mohan,saniindira@acharya.com,4882142369,Lucknow,Uttar Pradesh,India,22,Net 60,4.5,Active
+447,Om Balay Industries,Isha Kothari,zsami@lal.org,2965923426,Chennai,Tamil Nadu,India,10,Advance,3.6,Active
+448,United Mody Supplies,Chameli Shenoy,keyasarkar@devi.info,8575676670,Noida,Uttar Pradesh,India,14,Net 60,4.3,Active
+449,National Chakrabarti Corporation,Chasmum Kibe,joshua98@memon.com,0787010415,Nagpur,Maharashtra,India,25,Net 15,3.1,Active
+450,Royal Subramaniam Industries,Darsh Dara,jayaramanzaitra@tandon.com,4407931102,Surat,Gujarat,India,21,Net 60,3.1,Active
+451,Reliable Chatterjee Industries,Samarth Chawla,gbakshi@raman-bhakta.com,6723849791,Delhi,Delhi,India,24,Net 15,4.4,Active
+452,Sai Goyal Retail,Wridesh Garde,vamakshisrinivasan@mann-chaudhry.org,5466176620,Jaipur,Rajasthan,India,7,Net 30,3.3,Active
+453,Smart Ramachandran Industries,Chavvi Bandi,wbasak@sidhu.info,0258835868,Delhi,Delhi,India,12,Net 45,3.5,Active
+454,Infinity Pandey Industries,Tripti Dey,chavvi61@sule.org,9884259959,Kanpur,Uttar Pradesh,India,16,Net 60,3.7,Active
+455,Infinity Bath Supplies,Nathan Kata,cherianxalak@soni.com,2661094101,Ghaziabad,Uttar Pradesh,India,7,Net 30,4.5,Inactive
+456,Elite Balan Distributors,Ekani Chokshi,ipurohit@iyengar.info,4332683190,Delhi,Delhi,India,3,Advance,3.5,Active
+457,Om Dey Supplies,Jagvi Reddy,oakqasim@wable.com,8559821766,Pune,Maharashtra,India,29,Advance,4.1,Inactive
+458,Royal Datta Distributors,Harrison Dalal,dkashyap@zachariah.com,4651241893,Noida,Uttar Pradesh,India,9,Net 45,4.8,Active
+459,National Muni Wholesale,Dakshesh Choudhry,plall@bali.biz,3502385037,Ghaziabad,Uttar Pradesh,India,5,Net 60,4.3,Active
+460,Modern Banik Retail,Ekavir Saha,srinivaskai@barman-chawla.com,8356743000,Mumbai,Maharashtra,India,14,Advance,4.8,Inactive
+461,Sunrise Raghavan Solutions,Vasatika Ben,spurohit@sani.biz,1719553560,Bengaluru,Karnataka,India,19,Net 45,3.0,Active
+462,Infinity Anne Corporation,Nitara Yadav,aurorazaid@bose.com,2405593429,Kolkata,West Bengal,India,16,Net 30,4.2,Active
+463,United Bose Retail,Zashil Jha,oparikh@mittal-peri.net,3845881056,Kolkata,West Bengal,India,6,Advance,4.9,Active
+464,Vertex Brar Solutions,Laksh Verma,dalajakade@pradhan.com,3771070449,Delhi,Delhi,India,12,Advance,4.5,Active
+465,Sunrise Bhasin Industries,Leena Tandon,rajaleena@basu-kapur.com,2680408509,Ahmedabad,Gujarat,India,18,Net 15,3.8,Suspended
+466,Star Kalita Corporation,Harita Saraf,zbhandari@rama.com,6998426732,Bengaluru,Karnataka,India,3,Net 15,4.8,Active
+467,Sai Chada Manufacturing,Chakrika Nazareth,nbarad@pathak-luthra.com,1495427707,Bengaluru,Karnataka,India,20,Advance,4.0,Active
+468,Om Parmer Industries,Tejas Rege,bucharadhana@murthy.com,4472322903,Mumbai,Maharashtra,India,15,Net 15,3.5,Active
+469,Shree Toor Enterprises,Edhitha Barman,darshlad@babu-pandit.net,9351187181,Noida,Uttar Pradesh,India,12,Net 45,3.5,Active
+470,United Prabhu Supplies,Ekbal Sandhu,luke05@parsa.com,4902504290,Hyderabad,Telangana,India,6,Advance,3.3,Active
+471,Royal Munshi Industries,Tanveer Radhakrishnan,doctorlakshmi@brar.org,8180978875,Ghaziabad,Uttar Pradesh,India,26,Net 15,3.9,Active
+472,Elite Memon Industries,Falguni Kibe,vihaan75@dalia.biz,1588157937,Pune,Maharashtra,India,27,Net 30,4.7,Active
+473,Prime Dass Distributors,Nikita Devi,bhavini55@bumb.biz,9732702164,Noida,Uttar Pradesh,India,6,Advance,4.4,Suspended
+474,Om Date Retail,Raagini Bajwa,elijahdeo@wagle.com,6834155999,Mumbai,Maharashtra,India,23,Net 30,3.5,Suspended
+475,Global Pant Enterprises,Nilima Sengupta,wmann@desai-goswami.org,2099576572,Surat,Gujarat,India,19,Net 60,3.5,Active
+476,Star Chatterjee Industries,Chameli Tak,chanakya98@trivedi.com,5220368499,Delhi,Delhi,India,3,Net 15,3.3,Active
+477,Sai Mane Industries,Jagat Mani,vidhi73@mani.org,3421388209,Jaipur,Rajasthan,India,28,Advance,3.0,Active
+478,Green Hayer Supplies,Vrinda Bal,samar49@saxena-verma.com,4117674124,Bengaluru,Karnataka,India,30,Net 30,3.2,Inactive
+479,Prime Kapadia Supplies,Eta Dugar,anya78@borah.biz,8538003296,Nagpur,Maharashtra,India,28,Net 45,4.0,Active
+480,Royal Singhal Supplies,Vedhika Grover,imandal@chakrabarti.com,6178932064,Ghaziabad,Uttar Pradesh,India,8,Net 15,3.5,Active
+481,Star Keer Traders,Veda Wali,charitakata@sundaram-suri.biz,8741314675,Kolkata,West Bengal,India,22,Net 30,4.0,Inactive
+482,Future Goda Traders,Eiravati Comar,mitali27@sabharwal-keer.com,4836085456,Bengaluru,Karnataka,India,10,Net 45,3.3,Active
+483,Apex Rastogi Distributors,Chatura Loyal,vkanda@bath.biz,9283199529,Delhi,Delhi,India,14,Net 30,4.0,Active
+484,Sai Raghavan Wholesale,Gauri Pandit,bawazilmil@pathak.com,8634255638,Noida,Uttar Pradesh,India,14,Net 30,3.4,Active
+485,Modern Bahri Traders,Yachana Rao,kbasak@mitra-bajwa.com,0416624111,Jaipur,Rajasthan,India,3,Net 45,4.1,Active
+486,Modern Aurora Supplies,Girish Raman,devikanaik@vala-bajaj.com,7314976461,Hyderabad,Telangana,India,9,Net 15,3.5,Active
+487,Prime Mallick Distributors,Bhavani Walla,lavanyabadal@ramesh-pradhan.net,7390637579,Indore,Madhya Pradesh,India,13,Net 15,3.4,Active
+488,Sai Dhawan Wholesale,Girish Gara,vrishtikrish@dhaliwal.org,8930746452,Delhi,Delhi,India,24,Net 30,4.9,Active
+489,Infinity Ray Distributors,Amrita Kadakia,utata@keer.info,1616202812,Kanpur,Uttar Pradesh,India,19,Net 30,3.4,Active
+490,Prime Barad Distributors,Warhi Garde,vdey@sahota.com,6448595922,Kolkata,West Bengal,India,2,Net 60,4.0,Active
+491,Supreme Prabhu Distributors,Urmi Shere,gangadeshmukh@viswanathan.info,5622710433,Chennai,Tamil Nadu,India,12,Net 15,4.8,Active
+492,Shree Narayanan Traders,Darsh Sidhu,ekalingapalla@kara.com,4694596488,Delhi,Delhi,India,6,Net 60,4.4,Active
+493,Sai Chauhan Industries,Ati Gokhale,harsh28@rajagopal.org,3203319222,Ghaziabad,Uttar Pradesh,India,24,Net 45,4.2,Active
+494,Shree Brahmbhatt Supplies,Laksh Vaidya,qsandal@narain-mittal.net,3866675485,Pune,Maharashtra,India,25,Net 45,4.6,Suspended
+495,Vertex Ganesan Wholesale,Luke Sarkar,ssuri@dara-saran.com,0575639836,Ghaziabad,Uttar Pradesh,India,9,Net 60,4.6,Active
+496,Sunrise Hayre Supplies,Jalsa Vora,abdulmukherjee@chandra-pillay.com,9404760440,Pune,Maharashtra,India,25,Advance,4.9,Inactive
+497,Om Sha Wholesale,Oscar Solanki,baradkala@dua.com,1610705184,Mumbai,Maharashtra,India,7,Net 60,3.6,Active
+498,Supreme Natarajan Distributors,Omkaar Peri,rauomaja@bhat.net,4127049386,Hyderabad,Telangana,India,17,Net 15,3.7,Active
+499,Sai Mahal Solutions,Jacob Om,kchadha@chakrabarti-dada.com,1259020357,Pune,Maharashtra,India,22,Advance,4.6,Active
+500,Shree Halder Manufacturing,Dayita Bera,lmangat@dey-mutti.biz,3432447417,Delhi,Delhi,India,10,Net 15,3.5,Active

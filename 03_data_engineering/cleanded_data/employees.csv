@@ -1,0 +1,501 @@
+EmployeeID,EmployeeName,Department,Role,HireDate,Salary,Email,Phone,Status
+1,Aryan Maharaj,Marketing,Marketing Executive,2020-09-16,44012,aryanmaharaj1@company.com,2181960013,Active
+2,Rushil Saini,Finance,Finance Manager,2020-04-17,96717,rushilsaini2@company.com,9402654235,Active
+3,Jagrati Padmanabhan,Marketing,Marketing Manager,2021-01-16,107651,jagratipadmanabhan3@company.com,7816184959,Active
+4,Bimala Buch,Marketing,Marketing Executive,2020-07-03,42623,bimalabuch4@company.com,6475255341,Active
+5,Nihal Shere,Sales,Sales Associate,2022-12-31,28257,nihalshere5@company.com,8350305641,Active
+6,Xalak Randhawa,Procurement,Procurement Executive,2024-05-08,49719,xalakrandhawa6@company.com,4238849696,Active
+7,Gavin Batta,Sales,Sales Executive,2018-05-30,43848,gavinbatta7@company.com,2691669784,Active
+8,Harini Choudhury,Finance,Accountant,2021-07-15,46029,harinichoudhury8@company.com,2704828148,Active
+9,Neel Zacharia,Procurement,Procurement Executive,2025-07-26,46763,neelzacharia9@company.com,9570154303,Active
+10,Ekapad Walia,Information Technology,Data Analyst,2018-09-07,80108,ekapadwalia10@company.com,7824896383,Active
+11,Zansi Seth,Procurement,Procurement Executive,2018-08-08,53089,zansiseth11@company.com,3150983930,Active
+12,Azad Narayanan,Operations,Operations Executive,2017-10-01,58087,azadnarayanan12@company.com,4738299737,Active
+13,Raagini Pandya,Human Resources,HR Manager,2023-10-02,85229,raaginipandya13@company.com,7010651333,Active
+14,Qadim Mallick,Marketing,Digital Marketing Specialist,2024-05-31,54108,qadimmallick14@company.com,1781080132,Active
+15,Nandini Bhargava,Operations,Operations Executive,2019-05-07,47130,nandinibhargava15@company.com,0647468723,Active
+16,Dipta Bhandari,Information Technology,Data Analyst,2017-05-25,89920,diptabhandari16@company.com,8820812191,Active
+17,Balveer Bumb,Human Resources,HR Executive,2023-09-04,50147,balveerbumb17@company.com,4353462475,Active
+18,Ethan Yogi,Human Resources,Recruiter,2020-03-03,40626,ethanyogi18@company.com,2513542784,Active
+19,Hemang Desai,Sales,Sales Executive,2021-01-16,31051,hemangdesai19@company.com,1824493534,Active
+20,George Sampath,Procurement,Procurement Manager,2021-04-02,84337,georgesampath20@company.com,0524278680,Active
+21,Kala Divan,Operations,Operations Executive,2023-11-09,56477,kaladivan21@company.com,0450533158,Active
+22,Nicholas Goel,Customer Support,Customer Support Executive,2023-07-23,33679,nicholasgoel22@company.com,2563421607,Active
+23,Dalaja Kari,Information Technology,Database Administrator,2020-05-03,88077,dalajakari23@company.com,3654145868,On Leave
+24,Pranav Lanka,Procurement,Procurement Manager,2017-03-12,94373,pranavlanka24@company.com,9655698169,Resigned
+25,Aarav Venkatesh,Finance,Finance Manager,2025-09-14,122343,aaravvenkatesh25@company.com,5615951484,Active
+26,Joshua Handa,Sales,Sales Executive,2023-09-12,35008,joshuahanda26@company.com,2994680443,Active
+27,Udyati Sathe,Procurement,Buyer,2024-01-25,42081,udyatisathe27@company.com,8721489513,Active
+28,Aryan Batra,Customer Support,Support Manager,2020-09-16,96256,aryanbatra28@company.com,9176936763,Active
+29,Theodore Goda,Sales,Sales Associate,2025-05-10,36808,theodoregoda29@company.com,0831727889,Active
+30,Sanaya Dutt,Information Technology,Software Engineer,2024-08-14,67310,sanayadutt30@company.com,4348734714,Active
+31,Faris Devi,Finance,Finance Executive,2019-02-10,45106,farisdevi31@company.com,6231665876,Resigned
+32,Anmol Rai,Information Technology,Database Administrator,2024-08-28,71708,anmolrai32@company.com,5466889373,Active
+33,Lopa Nayar,Marketing,Marketing Manager,2023-06-04,99558,lopanayar33@company.com,7298069901,Active
+34,Chandresh Lad,Human Resources,HR Executive,2022-12-29,47252,chandreshlad34@company.com,3755646417,Active
+35,Udarsh Biswas,Sales,Sales Associate,2017-03-25,30310,udarshbiswas35@company.com,3309232719,Active
+36,Oliver Contractor,Marketing,Digital Marketing Specialist,2019-05-01,55076,olivercontractor36@company.com,1904966319,Active
+37,Benjamin Palan,Human Resources,Recruiter,2025-08-10,32580,benjaminpalan37@company.com,5185067165,Active
+38,Anamika Yohannan,Customer Support,Customer Support Executive,2024-10-08,42455,anamikayohannan38@company.com,6945314737,Active
+39,Ayush Talwar,Finance,Finance Manager,2022-01-27,121148,ayushtalwar39@company.com,7354549480,On Leave
+40,Niharika Suresh,Finance,Finance Executive,2025-12-27,62290,niharikasuresh40@company.com,7770143634,Active
+41,Pavani Narayanan,Procurement,Procurement Executive,2022-07-13,52671,pavaninarayanan41@company.com,4443135182,Active
+42,Barkha Chaudhry,Human Resources,Recruiter,2019-11-06,40214,barkhachaudhry42@company.com,3524082400,Active
+43,Harshil Arora,Operations,Operations Manager,2026-04-24,103919,harshilarora43@company.com,7775204711,Active
+44,Max Dixit,Human Resources,HR Executive,2026-02-13,37098,maxdixit44@company.com,1318699938,Active
+45,Pushti Mody,Human Resources,Recruiter,2026-03-21,37216,pushtimody45@company.com,9133412328,Active
+46,Shravya Singhal,Sales,Sales Executive,2021-07-01,32208,shravyasinghal46@company.com,3447134936,On Leave
+47,Amaira Dhar,Operations,Operations Executive,2017-10-04,51847,amairadhar47@company.com,2499471746,Active
+48,Raksha Buch,Customer Support,Customer Support Executive,2017-03-22,42669,rakshabuch48@company.com,5940139904,Active
+49,Zilmil Sathe,Customer Support,Customer Support Executive,2021-04-11,40498,zilmilsathe49@company.com,9671756551,Active
+50,Bhavya Rattan,Human Resources,HR Executive,2025-11-26,38176,bhavyarattan50@company.com,7154516808,Active
+51,Zarna Pathak,Operations,Operations Manager,2025-01-09,96941,zarnapathak51@company.com,0348247710,Active
+52,Akshay Reddy,Sales,Sales Associate,2018-02-17,35706,akshayreddy52@company.com,1712748467,Resigned
+53,Leela Halder,Marketing,Marketing Executive,2025-03-11,48193,leelahalder53@company.com,1465840449,Active
+54,Veda Pai,Marketing,Marketing Executive,2022-03-14,41278,vedapai54@company.com,7533963605,Active
+55,Warhi Bansal,Customer Support,Customer Support Executive,2018-09-10,38824,warhibansal55@company.com,1718702621,Active
+56,Faris Narasimhan,Customer Support,Customer Support Executive,2025-08-15,27470,farisnarasimhan56@company.com,5780913431,Active
+57,Ojas Mistry,Marketing,Marketing Executive,2017-01-13,52713,ojasmistry57@company.com,5045562386,Active
+58,Farhan Raja,Marketing,Marketing Executive,2020-08-22,40449,farhanraja58@company.com,9237474074,Active
+59,Hemani Mistry,Customer Support,Customer Support Executive,2023-10-06,38141,hemanimistry59@company.com,7436713695,On Leave
+60,Meghana Maharaj,Finance,Finance Executive,2016-09-06,45070,meghanamaharaj60@company.com,9743953394,Resigned
+61,Ridhi Bandi,Information Technology,System Administrator,2026-05-28,68694,ridhibandi61@company.com,2145623285,Active
+62,Aarini Subramaniam,Customer Support,Customer Support Executive,2021-07-25,31222,aarinisubramaniam62@company.com,1712368516,Active
+63,Suhani Pillay,Sales,Sales Associate,2021-01-02,37054,suhanipillay63@company.com,5137098593,Active
+64,Jackson Dey,Operations,Operations Executive,2017-04-25,36643,jacksondey64@company.com,4711382675,Active
+65,Oeshi Chaudhary,Finance,Accountant,2024-11-13,51640,oeshichaudhary65@company.com,4053773515,Active
+66,Anya Gupta,Finance,Accountant,2018-08-16,54498,anyagupta66@company.com,1390053293,Active
+67,Viraj Narasimhan,Human Resources,HR Manager,2019-01-20,87856,virajnarasimhan67@company.com,4228421020,On Leave
+68,Amol Ghosh,Human Resources,Recruiter,2021-01-21,49481,amolghosh68@company.com,2681177589,Active
+69,Caleb Verma,Marketing,Digital Marketing Specialist,2021-09-04,66540,calebverma69@company.com,0076617711,Active
+70,Jonathan Maharaj,Operations,Operations Manager,2026-07-03,83386,jonathanmaharaj70@company.com,6984789611,Active
+71,Vedant Sachdev,Operations,Operations Executive,2022-04-24,43703,vedantsachdev71@company.com,6615654527,Active
+72,Rachana Char,Information Technology,System Administrator,2022-11-19,70720,rachanachar72@company.com,8098851656,On Leave
+73,Indira Chawla,Marketing,Marketing Executive,2026-05-18,50017,indirachawla73@company.com,2731585149,Active
+74,Amara Balakrishnan,Marketing,Marketing Executive,2019-08-13,52617,amarabalakrishnan74@company.com,4550229612,Active
+75,Krisha Saini,Information Technology,Business Analyst,2024-04-05,82872,krishasaini75@company.com,2545991022,On Leave
+76,Saanvi Samra,Human Resources,HR Manager,2024-10-21,98676,saanvisamra76@company.com,6438156149,Active
+77,Thomas Rana,Information Technology,Database Administrator,2017-06-23,94664,thomasrana77@company.com,3432445107,Active
+78,Victor Tella,Information Technology,Data Analyst,2026-01-18,58800,victortella78@company.com,1606071596,Active
+79,Ishwar Ravel,Marketing,Marketing Manager,2016-11-24,116256,ishwarravel79@company.com,2975161369,Active
+80,Dayita Nori,Information Technology,Database Administrator,2020-04-24,73803,dayitanori80@company.com,2181883552,Active
+81,Rudra Ghose,Human Resources,Recruiter,2019-02-22,38650,rudraghose81@company.com,2779979955,Active
+82,Riya Mitter,Information Technology,Data Analyst,2021-03-20,56048,riyamitter82@company.com,5814770054,Active
+83,Turvi Barman,Information Technology,Data Analyst,2024-03-12,50232,turvibarman83@company.com,5978207151,Active
+84,Raksha Sarna,Finance,Finance Manager,2025-06-17,107167,rakshasarna84@company.com,5546659051,Active
+85,Bhanumati Krishnan,Customer Support,Support Manager,2019-02-07,96759,bhanumatikrishnan85@company.com,1925462914,Active
+86,Girik Sampath,Marketing,Marketing Manager,2025-03-12,89768,giriksampath86@company.com,0542357332,Active
+87,Yashica Zacharia,Operations,Operations Executive,2025-07-02,49083,yashicazacharia87@company.com,5929622292,Active
+88,Wazir Sawhney,Information Technology,Software Engineer,2021-05-23,118915,wazirsawhney88@company.com,3834735977,On Leave
+89,Neel Iyengar,Sales,Sales Manager,2018-11-24,83767,neeliyengar89@company.com,0758181412,Active
+90,Rajeshri Chand,Marketing,Digital Marketing Specialist,2020-04-27,63346,rajeshrichand90@company.com,5060685361,On Leave
+91,Hardik Nayak,Procurement,Buyer,2019-01-11,64558,hardiknayak91@company.com,0472779010,Active
+92,Indrajit Mani,Human Resources,HR Executive,2020-08-02,40801,indrajitmani92@company.com,1036971179,On Leave
+93,Maanas Manne,Sales,Sales Executive,2023-11-06,40885,maanasmanne93@company.com,9539621851,Active
+94,Madhavi Singhal,Procurement,Buyer,2017-04-14,68313,madhavisinghal94@company.com,5405153195,Active
+95,Parth Shetty,Human Resources,HR Manager,2024-09-07,90433,parthshetty95@company.com,2170430305,Active
+96,Zehaan Bansal,Marketing,Digital Marketing Specialist,2019-10-18,46268,zehaanbansal96@company.com,5054156676,Active
+97,Jhalak Venkataraman,Human Resources,HR Executive,2021-01-30,50083,jhalakvenkataraman97@company.com,6169284511,Active
+98,Pooja Ganesan,Human Resources,HR Executive,2024-02-05,35775,poojaganesan98@company.com,7059640165,Active
+99,Raksha Banerjee,Procurement,Procurement Manager,2018-09-10,98258,rakshabanerjee99@company.com,3556909275,Active
+100,Jeevika Rao,Information Technology,Software Engineer,2021-11-22,102040,jeevikarao100@company.com,3102786814,Active
+101,Vritti Iyengar,Operations,Operations Executive,2018-08-19,38779,vrittiiyengar101@company.com,1727155188,Active
+102,Janaki Trivedi,Information Technology,Business Analyst,2020-05-11,98049,janakitrivedi102@company.com,3237058957,Resigned
+103,Dominic More,Information Technology,Data Analyst,2023-04-27,57104,dominicmore103@company.com,8669125177,Active
+104,Kai Sant,Operations,Operations Manager,2025-02-05,98599,kaisant104@company.com,1824225358,Active
+105,Anvi Dass,Marketing,Digital Marketing Specialist,2021-09-11,63893,anvidass105@company.com,8299229959,Active
+106,Alka Kade,Sales,Sales Associate,2026-04-12,32144,alkakade106@company.com,9078447364,Active
+107,Ria Sagar,Human Resources,HR Manager,2024-10-13,108265,riasagar107@company.com,3592555625,Active
+108,Wyatt Shukla,Operations,Operations Manager,2018-08-18,113475,wyattshukla108@company.com,7321046963,Active
+109,Ranveer Dutta,Information Technology,Database Administrator,2025-01-08,80269,ranveerdutta109@company.com,7470168733,Active
+110,Baghyawati Talwar,Operations,Operations Manager,2024-07-20,115692,baghyawatitalwar110@company.com,8016245650,Active
+111,Janani Mani,Finance,Accountant,2017-10-17,48777,jananimani111@company.com,8784991216,Active
+112,Maanas Issac,Procurement,Buyer,2025-03-16,64514,maanasissac112@company.com,8000257872,On Leave
+113,Eiravati Gaba,Information Technology,System Administrator,2023-03-25,85909,eiravatigaba113@company.com,9588879470,Active
+114,Darika Bala,Information Technology,Software Engineer,2024-08-14,73774,darikabala114@company.com,9930972896,Active
+115,Rayaan Bahl,Operations,Operations Manager,2024-01-18,98952,rayaanbahl115@company.com,6263689702,Active
+116,Vanya Vora,Human Resources,Recruiter,2022-12-15,45505,vanyavora116@company.com,2785854973,Active
+117,Umang Mishra,Finance,Finance Manager,2021-06-17,95557,umangmishra117@company.com,7575844198,Active
+118,Bina Basak,Operations,Operations Executive,2021-06-09,59613,binabasak118@company.com,5747338484,Active
+119,Xavier Bedi,Information Technology,Business Analyst,2025-07-30,73050,xavierbedi119@company.com,3016571208,Active
+120,Ryan Mani,Sales,Sales Executive,2022-01-03,45569,ryanmani120@company.com,0193802620,Active
+121,Baljiwan Andra,Marketing,Digital Marketing Specialist,2021-08-15,58580,baljiwanandra121@company.com,5478872874,On Leave
+122,Tara Kurian,Human Resources,Recruiter,2019-09-18,42582,tarakurian122@company.com,5493296685,Active
+123,Logan Sood,Human Resources,HR Executive,2022-01-18,56497,logansood123@company.com,0463745499,Active
+124,David Dani,Marketing,Digital Marketing Specialist,2024-06-17,52170,daviddani124@company.com,2684145933,Active
+125,Kashvi Sagar,Customer Support,Customer Support Executive,2025-11-20,43265,kashvisagar125@company.com,8339187851,Active
+126,Mason Gala,Marketing,Digital Marketing Specialist,2022-02-15,49369,masongala126@company.com,1397187072,Active
+127,Turvi Morar,Operations,Operations Manager,2016-11-30,110150,turvimorar127@company.com,4039106518,Active
+128,Bhavini Rege,Procurement,Buyer,2019-08-10,54611,bhavinirege128@company.com,6567661825,On Leave
+129,Joshua Kapoor,Customer Support,Support Manager,2016-08-08,76986,joshuakapoor129@company.com,4786863375,Active
+130,Azad Saini,Information Technology,Database Administrator,2016-10-23,91758,azadsaini130@company.com,3119079030,Active
+131,Daksh Dey,Information Technology,System Administrator,2025-02-12,55077,dakshdey131@company.com,3959953428,Active
+132,Darsh Gill,Human Resources,HR Manager,2023-10-24,102010,darshgill132@company.com,0568566246,Active
+133,Umang Mital,Marketing,Marketing Executive,2018-12-31,39942,umangmital133@company.com,0866882634,Active
+134,Kamala Chanda,Finance,Finance Manager,2025-08-28,104021,kamalachanda134@company.com,0469901398,Active
+135,Chavvi Aurora,Procurement,Procurement Manager,2020-02-24,115560,chavviaurora135@company.com,1739363854,Active
+136,Darika Lal,Sales,Sales Executive,2022-08-30,43767,darikalal136@company.com,7175355609,Active
+137,Omisha Merchant,Sales,Sales Associate,2019-02-20,31232,omishamerchant137@company.com,5369378547,Active
+138,Omkaar Dey,Operations,Operations Manager,2025-11-04,119379,omkaardey138@company.com,2808010062,Active
+139,Tejas Tiwari,Procurement,Buyer,2024-04-20,64494,tejastiwari139@company.com,0997700886,Active
+140,Bhavini Badal,Human Resources,HR Manager,2025-02-01,94380,bhavinibadal140@company.com,2118233984,Active
+141,Kashvi Ravi,Customer Support,Customer Support Executive,2024-05-09,37742,kashviravi141@company.com,3410166687,Active
+142,Xalak Saraf,Procurement,Buyer,2022-03-07,45408,xalaksaraf142@company.com,8033974014,Active
+143,Divya Babu,Finance,Finance Manager,2020-01-26,125004,divyababu143@company.com,6142939685,Active
+144,Chatresh Chaudhari,Procurement,Buyer,2023-12-24,58493,chatreshchaudhari144@company.com,1599965047,Active
+145,Rachana Grewal,Marketing,Marketing Manager,2026-07-06,108089,rachanagrewal145@company.com,1943114262,Active
+146,Gavin Ahluwalia,Customer Support,Customer Support Executive,2021-10-15,26647,gavinahluwalia146@company.com,5412126788,Active
+147,Gaurav Pandya,Operations,Operations Executive,2025-12-21,49899,gauravpandya147@company.com,9956046618,Active
+148,Lajita Gara,Procurement,Procurement Manager,2018-11-27,129283,lajitagara148@company.com,4472126464,Resigned
+149,Yatin Tandon,Procurement,Procurement Manager,2019-11-15,85367,yatintandon149@company.com,1240659657,Active
+150,Charita Nagi,Sales,Sales Manager,2019-12-18,84694,charitanagi150@company.com,5265479356,Active
+151,Ryan Gole,Sales,Sales Executive,2025-11-26,38102,ryangole151@company.com,7374167243,Active
+152,Ethan Sen,Sales,Sales Associate,2024-09-11,27496,ethansen152@company.com,8868058911,Active
+153,Mugdha Narula,Customer Support,Customer Support Executive,2023-11-13,43480,mugdhanarula153@company.com,0143888993,On Leave
+154,Xiti Dora,Customer Support,Support Manager,2022-05-31,84175,xitidora154@company.com,7146112545,Active
+155,Ijaya Soni,Marketing,Marketing Executive,2018-03-16,45192,ijayasoni155@company.com,7514010512,Active
+156,Ganga Sandhu,Sales,Sales Manager,2024-05-28,107735,gangasandhu156@company.com,6226609379,Active
+157,Samesh Mallick,Procurement,Procurement Manager,2017-08-10,126859,sameshmallick157@company.com,8255371478,Active
+158,Ishaan Pall,Human Resources,HR Executive,2022-07-14,57845,ishaanpall158@company.com,9249912513,Active
+159,Lohit Vaidya,Marketing,Marketing Manager,2023-02-25,82691,lohitvaidya159@company.com,9296627828,Active
+160,Rachit Murty,Procurement,Buyer,2024-03-20,52142,rachitmurty160@company.com,5072368876,Active
+161,Oliver Butala,Operations,Operations Executive,2026-03-01,48764,oliverbutala161@company.com,3404384279,Active
+162,Ishaan Loyal,Marketing,Digital Marketing Specialist,2025-10-13,56868,ishaanloyal162@company.com,8078361340,Active
+163,Reva Dalal,Customer Support,Customer Support Executive,2020-07-29,39270,revadalal163@company.com,9596292330,Active
+164,Om Naik,Information Technology,Database Administrator,2021-07-10,95269,omnaik164@company.com,9481260422,Active
+165,Maya Suri,Customer Support,Support Manager,2018-12-18,98828,mayasuri165@company.com,6671168457,Active
+166,Girik Shanker,Human Resources,HR Executive,2022-08-21,44139,girikshanker166@company.com,8636374545,On Leave
+167,Hemal Bava,Human Resources,HR Manager,2017-04-29,117345,hemalbava167@company.com,7012770632,Active
+168,Jalsa Krishna,Procurement,Procurement Manager,2017-12-12,81880,jalsakrishna168@company.com,2064361103,Active
+169,Zilmil Saxena,Operations,Operations Executive,2016-09-13,50976,zilmilsaxena169@company.com,5162713611,Active
+170,Laksh Raja,Information Technology,Software Engineer,2018-10-23,78327,lakshraja170@company.com,1890927532,On Leave
+171,Gabriel Chaudhry,Information Technology,Database Administrator,2018-12-05,60665,gabrielchaudhry171@company.com,9656523413,Active
+172,Avi Mitra,Human Resources,HR Executive,2020-01-15,42908,avimitra172@company.com,6403761379,Active
+173,Edhitha Deo,Customer Support,Customer Support Executive,2023-02-15,40600,edhithadeo173@company.com,5827109104,Active
+174,Yashawini Mangat,Customer Support,Support Manager,2025-01-25,61130,yashawinimangat174@company.com,6618892414,Active
+175,Eta Raman,Human Resources,HR Manager,2026-07-09,125336,etaraman175@company.com,4630316179,Active
+176,Jagdish Arora,Operations,Operations Manager,2018-11-17,106272,jagdisharora176@company.com,2758842524,Active
+177,Anita Viswanathan,Procurement,Buyer,2017-08-18,58035,anitaviswanathan177@company.com,9177850792,Active
+178,Jack Kari,Customer Support,Support Manager,2025-03-14,80094,jackkari178@company.com,0030756220,Active
+179,Yuvraj Saha,Marketing,Marketing Manager,2021-12-27,92621,yuvrajsaha179@company.com,1951802380,Active
+180,Deepa Narang,Finance,Accountant,2018-01-05,42090,deepanarang180@company.com,0534949375,Active
+181,Matthew Ahuja,Information Technology,Database Administrator,2023-07-09,94382,matthewahuja181@company.com,3850506413,Active
+182,Darpan Dhar,Marketing,Marketing Executive,2021-04-21,44707,darpandhar182@company.com,0386571918,Active
+183,Radhika De,Finance,Finance Executive,2020-07-28,45463,radhikade183@company.com,4565574313,Active
+184,Hitesh Gala,Finance,Finance Executive,2024-03-11,46491,hiteshgala184@company.com,5618537474,Resigned
+185,Banjeet Kale,Information Technology,Business Analyst,2022-02-13,92170,banjeetkale185@company.com,1356804420,Active
+186,Girindra Shere,Sales,Sales Associate,2018-04-12,29658,girindrashere186@company.com,1003236519,Active
+187,Dhruv Hora,Customer Support,Support Manager,2024-02-02,72082,dhruvhora187@company.com,1510702966,Resigned
+188,Orinder Pandya,Information Technology,System Administrator,2020-03-13,57476,orinderpandya188@company.com,4472099934,Active
+189,Darsh Chahal,Procurement,Procurement Manager,2021-04-21,84855,darshchahal189@company.com,2638380657,Active
+190,Lipika Madan,Sales,Sales Executive,2019-08-09,34888,lipikamadan190@company.com,5930407859,Active
+191,Wridesh Lata,Information Technology,Data Analyst,2025-08-16,66265,wrideshlata191@company.com,3965223955,Active
+192,Raghav Tailor,Procurement,Buyer,2025-10-07,59533,raghavtailor192@company.com,2701039308,Active
+193,Kalpit Oak,Human Resources,Recruiter,2019-07-25,42464,kalpitoak193@company.com,0029218515,Active
+194,Chasmum Naidu,Customer Support,Support Manager,2018-11-12,98569,chasmumnaidu194@company.com,6752895392,Resigned
+195,Peter Agarwal,Information Technology,Database Administrator,2026-04-16,63947,peteragarwal195@company.com,9029593917,Active
+196,Idika Nagarajan,Marketing,Marketing Executive,2019-05-27,41914,idikanagarajan196@company.com,5704331541,Active
+197,Oni Ganesan,Marketing,Marketing Executive,2023-08-03,42859,oniganesan197@company.com,6586179327,Active
+198,Eiravati Lal,Marketing,Marketing Executive,2018-04-29,35087,eiravatilal198@company.com,5262181599,Active
+199,Radha Dugar,Customer Support,Support Manager,2017-06-15,62139,radhadugar199@company.com,5336884443,Active
+200,Mitesh Bhagat,Information Technology,System Administrator,2022-09-07,54664,miteshbhagat200@company.com,6149731032,Active
+201,Darika Rao,Information Technology,Database Administrator,2024-07-22,72964,darikarao201@company.com,4186256527,Active
+202,Adya Kara,Human Resources,Recruiter,2021-02-10,34882,adyakara202@company.com,2115869380,On Leave
+203,Warinder Soni,Finance,Accountant,2021-08-18,36954,warindersoni203@company.com,6089899217,Active
+204,Jonathan Basak,Information Technology,Database Administrator,2023-09-30,97303,jonathanbasak204@company.com,6329451168,On Leave
+205,Zinal Shanker,Customer Support,Customer Support Executive,2016-10-02,40358,zinalshanker205@company.com,1622999119,Active
+206,Nirja Lalla,Procurement,Procurement Manager,2023-01-23,112798,nirjalalla206@company.com,9970246299,Active
+207,Wazir Bawa,Customer Support,Customer Support Executive,2024-08-17,44596,wazirbawa207@company.com,5054447132,Active
+208,Omaja Chakraborty,Procurement,Buyer,2019-09-28,50561,omajachakraborty208@company.com,3678508214,Active
+209,Oscar Hans,Sales,Sales Executive,2019-12-17,37501,oscarhans209@company.com,3070534578,Resigned
+210,Kashish Suresh,Sales,Sales Associate,2024-02-18,38458,kashishsuresh210@company.com,7985524140,Active
+211,Timothy Kar,Sales,Sales Executive,2020-01-23,45417,timothykar211@company.com,6800722903,Active
+212,Pallavi Puri,Customer Support,Support Manager,2022-06-23,71894,pallavipuri212@company.com,4374896910,Resigned
+213,Chanchal Chokshi,Procurement,Buyer,2024-09-27,66681,chanchalchokshi213@company.com,5454443283,Active
+214,Logan Bal,Marketing,Digital Marketing Specialist,2025-01-02,56401,loganbal214@company.com,4666099353,Active
+215,Onkar Golla,Operations,Operations Executive,2021-07-17,40269,onkargolla215@company.com,7248251353,Active
+216,Abha Menon,Customer Support,Support Manager,2024-06-07,86244,abhamenon216@company.com,7099917381,Active
+217,Chatura Dora,Sales,Sales Manager,2018-11-18,75771,chaturadora217@company.com,5697252175,Active
+218,Siya Mahal,Operations,Operations Executive,2020-02-09,48244,siyamahal218@company.com,9271296666,Active
+219,Ryan Prakash,Sales,Sales Associate,2016-10-13,39243,ryanprakash219@company.com,8300335421,Active
+220,Oliver Bhattacharyya,Procurement,Procurement Executive,2017-04-28,41146,oliverbhattacharyya220@company.com,4789856257,Active
+221,Anirudh Kari,Customer Support,Support Manager,2020-05-11,63382,anirudhkari221@company.com,3098215064,Active
+222,Hritik Bahri,Finance,Finance Executive,2017-05-13,59356,hritikbahri222@company.com,6761847230,On Leave
+223,Laksh Sahota,Customer Support,Customer Support Executive,2018-04-30,25945,lakshsahota223@company.com,4117393483,Resigned
+224,Balveer Taneja,Human Resources,Recruiter,2020-01-29,35189,balveertaneja224@company.com,5300119721,Active
+225,Vihaan Shan,Sales,Sales Associate,2021-07-31,31684,vihaanshan225@company.com,7012045561,Active
+226,Onkar Narasimhan,Marketing,Digital Marketing Specialist,2022-08-17,48849,onkarnarasimhan226@company.com,9415521667,Active
+227,Ojas Chowdhury,Finance,Finance Executive,2018-10-19,68481,ojaschowdhury227@company.com,2169797296,Active
+228,Vasudha Sura,Information Technology,System Administrator,2018-06-19,81621,vasudhasura228@company.com,7014508993,Resigned
+229,Rachita Kothari,Human Resources,HR Manager,2024-09-28,116127,rachitakothari229@company.com,6289002877,Active
+230,Wridesh Narayanan,Human Resources,Recruiter,2021-04-11,46654,wrideshnarayanan230@company.com,8386631779,Active
+231,Diya Dani,Finance,Accountant,2025-01-02,44052,diyadani231@company.com,1660880199,Active
+232,Tanmayi Om,Procurement,Procurement Manager,2022-09-22,113275,tanmayiom232@company.com,3758997571,Active
+233,Isha Manne,Sales,Sales Manager,2025-11-11,117582,ishamanne233@company.com,1027261493,Active
+234,Tanvi Halder,Customer Support,Customer Support Executive,2022-04-17,39632,tanvihalder234@company.com,6091779827,Active
+235,Vasudha Trivedi,Operations,Operations Manager,2019-07-24,106170,vasudhatrivedi235@company.com,2169958669,Active
+236,Chaitaly Sethi,Procurement,Procurement Manager,2018-10-24,101088,chaitalysethi236@company.com,6984858333,Active
+237,Pranav Thakur,Human Resources,Recruiter,2025-10-09,42549,pranavthakur237@company.com,1587996846,Active
+238,Lakshmi Dhillon,Procurement,Procurement Executive,2017-06-12,45426,lakshmidhillon238@company.com,3424420438,Active
+239,Udarsh Ramachandran,Procurement,Procurement Manager,2020-08-02,123495,udarshramachandran239@company.com,0666580043,Active
+240,Ronith Hari,Finance,Finance Executive,2021-07-19,46213,ronithhari240@company.com,2122816064,Active
+241,Aadhya Ahluwalia,Operations,Operations Executive,2022-03-03,49427,aadhyaahluwalia241@company.com,2025909479,Active
+242,Thomas Gour,Customer Support,Customer Support Executive,2025-05-26,29723,thomasgour242@company.com,8268861533,Active
+243,Tejas Wali,Finance,Accountant,2024-08-15,50384,tejaswali243@company.com,1573993056,Active
+244,Aryan Varughese,Information Technology,Software Engineer,2022-12-03,100845,aryanvarughese244@company.com,7043581128,Active
+245,Tanay Samra,Marketing,Digital Marketing Specialist,2018-04-24,67097,tanaysamra245@company.com,8612075011,Active
+246,Vedant Kuruvilla,Procurement,Procurement Manager,2023-06-24,121077,vedantkuruvilla246@company.com,7665061809,Active
+247,Ishita Thakkar,Customer Support,Customer Support Executive,2018-05-08,27242,ishitathakkar247@company.com,4914766072,Active
+248,Chakrika Dhawan,Information Technology,Business Analyst,2021-08-13,65923,chakrikadhawan248@company.com,0882100996,Active
+249,Shivansh Padmanabhan,Marketing,Marketing Manager,2020-02-23,126130,shivanshpadmanabhan249@company.com,8222394312,Active
+250,Elijah Mannan,Customer Support,Customer Support Executive,2017-09-09,34812,elijahmannan250@company.com,1397552314,On Leave
+251,Vedika Seshadri,Sales,Sales Manager,2022-02-17,73677,vedikaseshadri251@company.com,9299556205,Active
+252,Jagvi Desai,Operations,Operations Manager,2022-03-09,79540,jagvidesai252@company.com,7754781291,Active
+253,Adya Bose,Procurement,Buyer,2017-10-29,62341,adyabose253@company.com,8099693084,Active
+254,Jasmit Ramanathan,Finance,Accountant,2020-05-05,37587,jasmitramanathan254@company.com,2788165803,Active
+255,Sanaya Dutta,Procurement,Buyer,2019-08-05,62384,sanayadutta255@company.com,7503731453,Active
+256,Lipika Singh,Finance,Accountant,2024-04-12,50110,lipikasingh256@company.com,0518449892,Active
+257,Zansi Krishnamurthy,Customer Support,Support Manager,2022-12-12,60615,zansikrishnamurthy257@company.com,8655779082,On Leave
+258,Yoshita Mand,Customer Support,Support Manager,2020-02-22,95821,yoshitamand258@company.com,2259136517,Active
+259,Nirja Bains,Customer Support,Support Manager,2020-09-09,98507,nirjabains259@company.com,2992280920,Active
+260,Anirudh Mander,Procurement,Buyer,2018-01-01,48195,anirudhmander260@company.com,7977236929,Active
+261,Oliver Oommen,Information Technology,Business Analyst,2024-04-04,85211,oliveroommen261@company.com,3662103886,Active
+262,Vamakshi Barad,Marketing,Marketing Executive,2025-08-02,47496,vamakshibarad262@company.com,1729806865,Active
+263,Vasatika Raj,Information Technology,Software Engineer,2022-07-05,61437,vasatikaraj263@company.com,6247314986,Resigned
+264,Jacob Venkatesh,Procurement,Procurement Manager,2016-08-31,80530,jacobvenkatesh264@company.com,3565126944,Active
+265,Anya Ranganathan,Sales,Sales Associate,2020-01-04,37208,anyaranganathan265@company.com,8872588744,Active
+266,Jagat Karpe,Information Technology,Business Analyst,2024-02-22,99784,jagatkarpe266@company.com,1386589026,Active
+267,Radhika Chakrabarti,Human Resources,Recruiter,2017-08-20,36230,radhikachakrabarti267@company.com,3519066984,Active
+268,Reva Anne,Finance,Finance Manager,2019-12-23,96367,revaanne268@company.com,3098839205,On Leave
+269,Anya Ratta,Sales,Sales Manager,2022-07-21,98889,anyaratta269@company.com,6938011848,Active
+270,Upkaar Hayer,Operations,Operations Executive,2024-04-12,37953,upkaarhayer270@company.com,9042681818,On Leave
+271,Zashil Savant,Operations,Operations Manager,2022-12-17,81510,zashilsavant271@company.com,3577907141,Active
+272,Nitara Pandit,Operations,Operations Manager,2025-05-01,80783,nitarapandit272@company.com,4341651827,Active
+273,Qadim Gupta,Customer Support,Support Manager,2025-01-12,82198,qadimgupta273@company.com,3343333952,Active
+274,Abeer Basak,Customer Support,Customer Support Executive,2024-09-30,29612,abeerbasak274@company.com,9579472846,Active
+275,Pallavi Sridhar,Human Resources,Recruiter,2025-09-29,43022,pallavisridhar275@company.com,8562718750,Resigned
+276,Eshana Pathak,Operations,Operations Executive,2020-12-17,47929,eshanapathak276@company.com,8434795527,Active
+277,Janya Rattan,Marketing,Digital Marketing Specialist,2021-04-20,57077,janyarattan277@company.com,2929314386,Active
+278,Urvashi Andra,Information Technology,Database Administrator,2019-07-20,84970,urvashiandra278@company.com,7288574489,Active
+279,Darpan Kale,Operations,Operations Executive,2020-11-14,57113,darpankale279@company.com,1754558845,Active
+280,Rushil Yohannan,Sales,Sales Associate,2019-07-07,39487,rushilyohannan280@company.com,5587716947,On Leave
+281,Nidhi Bora,Operations,Operations Executive,2017-11-21,56222,nidhibora281@company.com,5355449647,Active
+282,Odika Ganesh,Customer Support,Support Manager,2019-09-03,86758,odikaganesh282@company.com,2341326111,Active
+283,Mekhala Viswanathan,Sales,Sales Executive,2017-12-17,39973,mekhalaviswanathan283@company.com,4921643347,Resigned
+284,Ayush Banerjee,Marketing,Marketing Executive,2022-08-13,42693,ayushbanerjee284@company.com,7784872829,On Leave
+285,Dayita Palan,Finance,Finance Executive,2024-09-26,59864,dayitapalan285@company.com,1745642400,Active
+286,Upasna Warrior,Procurement,Buyer,2016-09-07,64322,upasnawarrior286@company.com,7406493085,Active
+287,Megha Krish,Procurement,Buyer,2019-04-28,43244,meghakrish287@company.com,6341638944,Active
+288,Ekapad Gopal,Procurement,Procurement Manager,2018-11-13,82144,ekapadgopal288@company.com,1797497350,Active
+289,Quincy Chaudry,Human Resources,HR Manager,2021-05-05,109143,quincychaudry289@company.com,2703120735,Resigned
+290,Ubika Balay,Operations,Operations Executive,2022-03-01,57468,ubikabalay290@company.com,2046187234,Active
+291,Lekha Savant,Operations,Operations Executive,2020-09-30,48046,lekhasavant291@company.com,3718376452,Active
+292,Zehaan Srivastava,Marketing,Digital Marketing Specialist,2021-08-17,48003,zehaansrivastava292@company.com,5031365024,Active
+293,Aditya Basak,Sales,Sales Executive,2026-06-06,40928,adityabasak293@company.com,9251327195,Active
+294,Hredhaan Dass,Finance,Finance Manager,2024-11-04,103448,hredhaandass294@company.com,5857306524,Active
+295,Vrishti Gupta,Human Resources,Recruiter,2026-03-09,37076,vrishtigupta295@company.com,8557498218,Active
+296,Jeevika Setty,Human Resources,HR Manager,2016-07-22,89670,jeevikasetty296@company.com,2095935186,Active
+297,Barkha Naidu,Sales,Sales Manager,2023-07-08,79482,barkhanaidu297@company.com,1181022031,Resigned
+298,Lipika Suri,Information Technology,Business Analyst,2025-06-28,67204,lipikasuri298@company.com,0539103717,Active
+299,Jyoti Bhardwaj,Sales,Sales Executive,2021-01-24,30486,jyotibhardwaj299@company.com,1413811386,Active
+300,Praneel Sagar,Human Resources,Recruiter,2018-05-04,40609,praneelsagar300@company.com,7612286852,Active
+301,Divya Nair,Information Technology,Data Analyst,2022-11-13,58307,divyanair301@company.com,6593983684,Active
+302,Aadi Banerjee,Marketing,Marketing Manager,2021-05-20,84165,aadibanerjee302@company.com,8240433504,Active
+303,Girindra Barad,Operations,Operations Executive,2024-05-17,49811,girindrabarad303@company.com,2245933441,Active
+304,Faras Nair,Sales,Sales Associate,2024-10-02,37832,farasnair304@company.com,7919409610,On Leave
+305,Jai Karan,Information Technology,System Administrator,2016-09-27,52041,jaikaran305@company.com,0480589258,Active
+306,Sanaya Thaman,Customer Support,Support Manager,2018-01-28,87936,sanayathaman306@company.com,6462251790,Active
+307,Mohini Thaker,Customer Support,Support Manager,2023-12-08,64816,mohinithaker307@company.com,2783769389,On Leave
+308,Amaira Sani,Operations,Operations Executive,2022-01-17,37152,amairasani308@company.com,1665535590,Active
+309,Madhav Sastry,Operations,Operations Manager,2017-04-22,109150,madhavsastry309@company.com,3521103924,Active
+310,Shivani Sinha,Customer Support,Support Manager,2016-12-06,66499,shivanisinha310@company.com,3833884879,Active
+311,Aadhya Garde,Marketing,Marketing Manager,2017-07-26,122658,aadhyagarde311@company.com,3940701645,Active
+312,Vihaan Rai,Human Resources,HR Manager,2025-03-12,109593,vihaanrai312@company.com,5798123878,On Leave
+313,Gauri Suri,Procurement,Procurement Manager,2023-03-28,109720,gaurisuri313@company.com,0555438404,Active
+314,Umang Doshi,Marketing,Digital Marketing Specialist,2022-05-11,58984,umangdoshi314@company.com,2168936392,Active
+315,Saumya Deep,Information Technology,Software Engineer,2020-01-23,70003,saumyadeep315@company.com,9832482629,Active
+316,Qarin Nadkarni,Customer Support,Customer Support Executive,2019-01-08,27989,qarinnadkarni316@company.com,5664742312,Active
+317,Vihaan Kata,Marketing,Digital Marketing Specialist,2020-06-21,48164,vihaankata317@company.com,5172897526,Active
+318,Reyansh Kara,Operations,Operations Executive,2017-02-03,53231,reyanshkara318@company.com,0463331279,Active
+319,Prisha Ravel,Operations,Operations Executive,2017-04-03,48461,prisharavel319@company.com,5699988081,Active
+320,Zilmil Yogi,Procurement,Buyer,2023-04-11,41685,zilmilyogi320@company.com,8680347644,Resigned
+321,Chatura Varughese,Information Technology,Software Engineer,2018-12-18,66789,chaturavarughese321@company.com,7181298266,Active
+322,Sudiksha Jaggi,Human Resources,HR Executive,2024-04-12,56519,sudikshajaggi322@company.com,4521117518,Active
+323,Kritika Rai,Marketing,Digital Marketing Specialist,2017-04-16,63227,kritikarai323@company.com,5922220644,Active
+324,Karan Jain,Information Technology,Database Administrator,2016-08-08,74821,karanjain324@company.com,0777809733,Active
+325,Riya Buch,Sales,Sales Associate,2016-08-27,35777,riyabuch325@company.com,8498302205,Active
+326,Garima Chahal,Information Technology,Data Analyst,2017-05-18,61823,garimachahal326@company.com,6224999827,Active
+327,Chandani Naidu,Information Technology,Software Engineer,2022-10-25,83004,chandaninaidu327@company.com,1681472145,Active
+328,Shaurya Bhardwaj,Finance,Finance Manager,2018-05-28,133079,shauryabhardwaj328@company.com,7946954899,Active
+329,Zinal Tank,Finance,Finance Manager,2024-12-03,131495,zinaltank329@company.com,9343010713,Resigned
+330,Gauri Palla,Marketing,Marketing Manager,2026-01-29,114765,gauripalla330@company.com,0344144885,Active
+331,Meghana Balakrishnan,Procurement,Procurement Manager,2019-07-14,102340,meghanabalakrishnan331@company.com,5577027278,Active
+332,Chandani Mutti,Information Technology,Software Engineer,2025-12-27,110910,chandanimutti332@company.com,3955124056,On Leave
+333,Rachit Dada,Marketing,Marketing Executive,2021-10-15,40098,rachitdada333@company.com,0461735743,Active
+334,Kavya Barad,Sales,Sales Associate,2019-12-25,26336,kavyabarad334@company.com,7807823578,Active
+335,Zaitra Deo,Procurement,Procurement Manager,2020-01-13,119785,zaitradeo335@company.com,7681040915,Active
+336,Arin Muni,Information Technology,Business Analyst,2020-02-11,93577,arinmuni336@company.com,3344857142,Active
+337,Yoshita Chaudry,Procurement,Procurement Executive,2020-01-22,44281,yoshitachaudry337@company.com,8542493214,Active
+338,Chandresh De,Customer Support,Support Manager,2017-01-14,62976,chandreshde338@company.com,0160166299,Active
+339,Gaurangi Hora,Sales,Sales Executive,2025-08-14,36698,gaurangihora339@company.com,7921717477,Active
+340,Januja Ramanathan,Human Resources,HR Executive,2019-08-31,43372,janujaramanathan340@company.com,5770171577,Active
+341,Yashoda Chauhan,Marketing,Marketing Executive,2023-06-12,51298,yashodachauhan341@company.com,5814876963,Active
+342,Vasatika Rajagopalan,Finance,Accountant,2017-09-01,47458,vasatikarajagopalan342@company.com,3966958321,Active
+343,Eshana Chatterjee,Human Resources,Recruiter,2024-02-13,48308,eshanachatterjee343@company.com,4619196570,Active
+344,Manan Dixit,Operations,Operations Executive,2024-04-01,48011,manandixit344@company.com,6997335494,Active
+345,Yashvi Raval,Sales,Sales Manager,2018-09-18,71228,yashviraval345@company.com,0580085140,Active
+346,Eesha Raja,Marketing,Digital Marketing Specialist,2023-06-14,63866,eesharaja346@company.com,6832723865,Active
+347,Krish Apte,Procurement,Buyer,2017-10-06,60976,krishapte347@company.com,2762126796,Active
+348,Shivani Rajagopalan,Marketing,Digital Marketing Specialist,2022-08-03,45683,shivanirajagopalan348@company.com,2690973846,Resigned
+349,Baljiwan Subramanian,Finance,Finance Manager,2022-10-25,120152,baljiwansubramanian349@company.com,9712847818,Active
+350,Faras Zacharia,Operations,Operations Executive,2026-05-28,49310,faraszacharia350@company.com,9058077879,Active
+351,Bimala Ganesh,Human Resources,HR Manager,2017-02-22,118592,bimalaganesh351@company.com,9407929049,Active
+352,Jonathan Tiwari,Marketing,Digital Marketing Specialist,2017-11-07,55167,jonathantiwari352@company.com,4294440192,Active
+353,Parth Lal,Human Resources,HR Manager,2020-07-24,91018,parthlal353@company.com,2805129276,Active
+354,Shivansh Pai,Marketing,Marketing Manager,2017-06-20,113420,shivanshpai354@company.com,1027674783,Active
+355,Maanav Wali,Operations,Operations Manager,2023-12-10,117669,maanavwali355@company.com,4765801856,Resigned
+356,Amara Chaudhari,Finance,Accountant,2020-11-20,38368,amarachaudhari356@company.com,7393852580,Active
+357,Guneet Vohra,Human Resources,HR Executive,2018-04-24,54739,guneetvohra357@company.com,5344300910,Active
+358,Jagdish Chadha,Marketing,Marketing Executive,2018-10-03,51191,jagdishchadha358@company.com,9212447174,Active
+359,Ethan Malhotra,Customer Support,Support Manager,2017-08-09,80718,ethanmalhotra359@company.com,6504427173,Active
+360,Ikbal Dhawan,Marketing,Digital Marketing Specialist,2025-09-28,59490,ikbaldhawan360@company.com,3917410119,Active
+361,Manthan Acharya,Information Technology,Database Administrator,2017-03-10,63681,manthanacharya361@company.com,4256908776,Active
+362,Aarush Rajagopalan,Marketing,Digital Marketing Specialist,2024-09-29,60130,aarushrajagopalan362@company.com,9855460158,Active
+363,Samaksh Goda,Sales,Sales Manager,2025-12-23,88813,samakshgoda363@company.com,6346157173,Active
+364,William Suresh,Marketing,Marketing Manager,2023-02-27,118933,williamsuresh364@company.com,8478700505,Active
+365,Tara Yadav,Customer Support,Customer Support Executive,2019-01-29,39736,tarayadav365@company.com,1027079032,On Leave
+366,Gunbir Shan,Human Resources,HR Manager,2019-06-13,119649,gunbirshan366@company.com,1179931365,Active
+367,Ekanta Kala,Finance,Accountant,2017-04-27,49762,ekantakala367@company.com,5114262582,Active
+368,Kiaan Chaudhry,Operations,Operations Executive,2022-12-11,51533,kiaanchaudhry368@company.com,0710021946,Active
+369,Anika Virk,Sales,Sales Executive,2024-03-16,44344,anikavirk369@company.com,3290927914,Resigned
+370,Rehaan Dalal,Finance,Finance Executive,2025-07-25,57217,rehaandalal370@company.com,9588373403,On Leave
+371,Patrick Dutta,Procurement,Procurement Manager,2017-04-11,102175,patrickdutta371@company.com,5436459701,Active
+372,Ayush Sundaram,Sales,Sales Associate,2025-04-21,35605,ayushsundaram372@company.com,1379956353,Active
+373,Warjas Sachar,Operations,Operations Executive,2019-12-12,53283,warjassachar373@company.com,3179706239,Active
+374,Laban Shankar,Information Technology,Software Engineer,2019-11-06,107430,labanshankar374@company.com,4352090421,Active
+375,Hemal Kannan,Finance,Finance Executive,2021-07-26,47670,hemalkannan375@company.com,9298316873,Active
+376,Akshay Sangha,Finance,Finance Executive,2020-09-27,55165,akshaysangha376@company.com,5693929060,Resigned
+377,Pavani Wali,Procurement,Procurement Executive,2023-04-03,54498,pavaniwali377@company.com,1773180632,Active
+378,Amol Srinivasan,Marketing,Digital Marketing Specialist,2021-09-24,63314,amolsrinivasan378@company.com,7990772625,Active
+379,Gaurangi Wali,Operations,Operations Executive,2017-02-06,56958,gaurangiwali379@company.com,6498931950,Active
+380,Leela Pau,Marketing,Marketing Manager,2024-06-17,123939,leelapau380@company.com,5528183253,Active
+381,Umang Nagi,Operations,Operations Executive,2022-07-18,46881,umangnagi381@company.com,8640155778,Active
+382,Siya Pillai,Human Resources,HR Manager,2017-08-29,111868,siyapillai382@company.com,7116241124,Active
+383,Samarth Verma,Finance,Accountant,2016-12-05,37528,samarthverma383@company.com,6827567043,Active
+384,Nisha Oza,Marketing,Marketing Manager,2022-02-04,115374,nishaoza384@company.com,9887749242,Active
+385,Bhavya Batta,Sales,Sales Associate,2019-01-25,30517,bhavyabatta385@company.com,4729284222,Active
+386,Edhitha Date,Finance,Finance Manager,2024-01-17,114688,edhithadate386@company.com,5238055257,Active
+387,Jairaj Bakshi,Finance,Finance Manager,2023-06-05,140534,jairajbakshi387@company.com,2752088547,Active
+388,Hamsini Chowdhury,Finance,Finance Manager,2024-09-10,118683,hamsinichowdhury388@company.com,2814069375,Active
+389,Tristan Mall,Operations,Operations Executive,2019-11-16,49555,tristanmall389@company.com,1871863759,Active
+390,Mitali Divan,Customer Support,Customer Support Executive,2023-10-27,42498,mitalidivan390@company.com,6504554781,Active
+391,Bhavya Gade,Customer Support,Customer Support Executive,2023-10-03,37053,bhavyagade391@company.com,2991234785,Active
+392,Abeer Rout,Customer Support,Support Manager,2021-03-12,78466,abeerrout392@company.com,2879232648,Active
+393,Wakeeta Sheth,Procurement,Procurement Executive,2020-05-13,41543,wakeetasheth393@company.com,0244714627,Active
+394,Waida Bhavsar,Finance,Finance Executive,2022-09-12,46709,waidabhavsar394@company.com,9647158904,Active
+395,Ekaja Shenoy,Operations,Operations Executive,2018-11-06,58311,ekajashenoy395@company.com,2045650448,Active
+396,Girindra Ganesh,Marketing,Digital Marketing Specialist,2025-10-17,47748,girindraganesh396@company.com,5445189520,Active
+397,Vedhika Sabharwal,Information Technology,System Administrator,2022-05-02,83643,vedhikasabharwal397@company.com,1328338988,Active
+398,Faraj Dada,Procurement,Procurement Executive,2018-10-11,42275,farajdada398@company.com,7545279852,Active
+399,Kabir Dhar,Operations,Operations Executive,2020-05-25,48595,kabirdhar399@company.com,2321611076,Active
+400,Yochana Bhargava,Operations,Operations Executive,2024-07-10,47653,yochanabhargava400@company.com,4014011939,Resigned
+401,Gautam Dhingra,Operations,Operations Executive,2021-04-06,35923,gautamdhingra401@company.com,5289389119,Active
+402,Baghyawati Garg,Marketing,Marketing Manager,2025-09-06,122595,baghyawatigarg402@company.com,1387592712,Active
+403,Yoshita Kari,Finance,Accountant,2023-06-24,36255,yoshitakari403@company.com,5171827548,Active
+404,Jack Rajan,Customer Support,Customer Support Executive,2021-05-15,40371,jackrajan404@company.com,9473864631,Active
+405,Vyanjana Cheema,Sales,Sales Executive,2023-04-15,30622,vyanjanacheema405@company.com,8112669121,Active
+406,Netra Das,Finance,Finance Manager,2020-07-04,137660,netradas406@company.com,7499465796,Active
+407,Suhani Chokshi,Procurement,Procurement Executive,2018-08-16,44440,suhanichokshi407@company.com,7732010170,Active
+408,Michael Mitter,Marketing,Marketing Executive,2018-03-08,42813,michaelmitter408@company.com,8773477848,Active
+409,Azad Sani,Customer Support,Customer Support Executive,2018-07-28,28632,azadsani409@company.com,7567700284,Active
+410,Devika Ramachandran,Customer Support,Customer Support Executive,2024-11-01,41887,devikaramachandran410@company.com,9788977828,Active
+411,Krishna Pandit,Finance,Finance Executive,2021-05-20,59065,krishnapandit411@company.com,0090255905,Active
+412,Ishanvi Sabharwal,Operations,Operations Executive,2022-07-09,53699,ishanvisabharwal412@company.com,3334911415,Active
+413,Baljiwan Sharma,Marketing,Marketing Manager,2023-09-25,103632,baljiwansharma413@company.com,4079056965,Active
+414,Samesh Nayar,Sales,Sales Manager,2024-12-29,100810,sameshnayar414@company.com,2945637183,Active
+415,Neelima Kara,Procurement,Procurement Manager,2018-02-09,96623,neelimakara415@company.com,9541987635,Active
+416,Rachita Zacharia,Operations,Operations Executive,2021-11-16,46298,rachitazacharia416@company.com,6649878208,Active
+417,Unni Loyal,Marketing,Marketing Manager,2025-08-10,128181,unniloyal417@company.com,9083572324,Active
+418,Samar Sachar,Finance,Accountant,2021-01-31,46544,samarsachar418@company.com,2493631230,Active
+419,Rajata Sami,Finance,Finance Manager,2017-03-04,120449,rajatasami419@company.com,2420448207,Resigned
+420,Chanchal Bhatt,Customer Support,Customer Support Executive,2023-06-21,29418,chanchalbhatt420@company.com,1623198189,Active
+421,Wazir Das,Customer Support,Customer Support Executive,2021-11-16,34615,wazirdas421@company.com,9636321234,Active
+422,Vritti Walla,Human Resources,HR Executive,2022-12-02,45341,vrittiwalla422@company.com,5867342575,On Leave
+423,Chatura Khatri,Procurement,Buyer,2020-11-05,55512,chaturakhatri423@company.com,4518376064,Active
+424,Shivansh Dyal,Human Resources,HR Manager,2024-01-04,103394,shivanshdyal424@company.com,6041776561,Active
+425,Indira Salvi,Sales,Sales Associate,2025-11-11,30438,indirasalvi425@company.com,7002720634,Active
+426,Nakul Krish,Operations,Operations Manager,2025-04-30,96215,nakulkrish426@company.com,9657724295,Active
+427,Jhalak Gopal,Procurement,Procurement Manager,2023-03-29,92243,jhalakgopal427@company.com,9300893173,Active
+428,Pushti Lad,Customer Support,Support Manager,2019-01-31,94031,pushtilad428@company.com,5291086771,Active
+429,Bhavna Talwar,Marketing,Marketing Manager,2023-01-17,107820,bhavnatalwar429@company.com,6393436262,Active
+430,Shravya Kothari,Finance,Finance Manager,2022-10-31,109252,shravyakothari430@company.com,1072563669,Active
+431,Charles Natarajan,Marketing,Digital Marketing Specialist,2020-07-16,66657,charlesnatarajan431@company.com,5990048964,Active
+432,Praneel Lad,Customer Support,Support Manager,2019-06-08,70921,praneellad432@company.com,5721586241,Active
+433,Avni Patel,Operations,Operations Manager,2023-11-11,72775,avnipatel433@company.com,4948562572,Active
+434,Manthan Bhagat,Operations,Operations Manager,2020-06-15,87993,manthanbhagat434@company.com,0742761707,Active
+435,Waida Chowdhury,Sales,Sales Executive,2019-01-23,43310,waidachowdhury435@company.com,5134228499,Active
+436,Omaja Bose,Finance,Accountant,2020-09-24,39678,omajabose436@company.com,1504165915,Active
+437,Varsha Setty,Customer Support,Customer Support Executive,2021-02-15,29136,varshasetty437@company.com,5097592304,Active
+438,George Rastogi,Operations,Operations Manager,2020-11-19,95090,georgerastogi438@company.com,3610326642,On Leave
+439,Dayita Deep,Sales,Sales Associate,2022-08-27,27513,dayitadeep439@company.com,5837767499,Active
+440,Quincy Saraf,Operations,Operations Manager,2023-10-17,99094,quincysaraf440@company.com,0857327881,Active
+441,Vanya Mital,Finance,Finance Manager,2019-01-27,114048,vanyamital441@company.com,4386490810,Active
+442,Nitara Chandra,Information Technology,Business Analyst,2024-06-13,67434,nitarachandra442@company.com,5491801722,Active
+443,Chameli Murthy,Finance,Finance Executive,2026-07-14,61965,chamelimurthy443@company.com,7945232194,Active
+444,Abdul Rana,Marketing,Digital Marketing Specialist,2018-07-13,53529,abdulrana444@company.com,2776974995,Active
+445,Krishna Atwal,Human Resources,Recruiter,2019-10-16,39357,krishnaatwal445@company.com,0303723683,Active
+446,Urvi Sami,Customer Support,Customer Support Executive,2016-11-30,29018,urvisami446@company.com,2277707933,Active
+447,Gauri Anand,Marketing,Digital Marketing Specialist,2018-04-16,50657,gaurianand447@company.com,6799840767,On Leave
+448,Vincent Bhat,Customer Support,Customer Support Executive,2025-07-13,35472,vincentbhat448@company.com,6958146717,Active
+449,Ansh Edwin,Marketing,Marketing Manager,2021-06-11,115531,anshedwin449@company.com,7573839597,Active
+450,Jagvi Sodhi,Information Technology,Business Analyst,2019-04-20,71409,jagvisodhi450@company.com,4172232971,Active
+451,Shaurya Batta,Human Resources,HR Executive,2016-11-07,41585,shauryabatta451@company.com,4522801561,Active
+452,Vidhi Kuruvilla,Human Resources,HR Manager,2022-05-02,81722,vidhikuruvilla452@company.com,0842891077,Active
+453,Benjamin Tripathi,Operations,Operations Manager,2018-05-04,106152,benjamintripathi453@company.com,1352478712,Active
+454,Saksham Sarna,Marketing,Marketing Executive,2023-08-14,45134,sakshamsarna454@company.com,3754821456,Active
+455,Vedant Devi,Customer Support,Support Manager,2023-11-03,86832,vedantdevi455@company.com,6785072081,Active
+456,Nitesh Saraf,Marketing,Marketing Executive,2017-08-03,45388,niteshsaraf456@company.com,0290846684,Active
+457,Manan Raval,Customer Support,Support Manager,2024-02-19,93905,mananraval457@company.com,8997563410,Active
+458,Zinal Zachariah,Finance,Accountant,2021-05-17,49176,zinalzachariah458@company.com,1884852008,Active
+459,Pahal Tiwari,Sales,Sales Executive,2018-06-04,46977,pahaltiwari459@company.com,5485101749,Active
+460,Vivaan Palla,Finance,Accountant,2021-08-20,45572,vivaanpalla460@company.com,9268315893,On Leave
+461,Pavani Sabharwal,Human Resources,HR Manager,2017-12-09,114006,pavanisabharwal461@company.com,0627371586,On Leave
+462,Aishani Tara,Marketing,Digital Marketing Specialist,2023-10-01,51432,aishanitara462@company.com,7622827728,Active
+463,Urvashi Bali,Information Technology,Business Analyst,2019-03-19,79845,urvashibali463@company.com,1961159408,Active
+464,Kavya Mitter,Marketing,Marketing Manager,2021-07-18,122007,kavyamitter464@company.com,0229604432,Active
+465,Ekansh Basu,Finance,Accountant,2023-08-25,56585,ekanshbasu465@company.com,9497567922,Active
+466,Manthan Nanda,Operations,Operations Executive,2018-01-23,35929,manthannanda466@company.com,6365807412,Active
+467,Frederick Hans,Information Technology,Business Analyst,2025-10-05,97495,frederickhans467@company.com,9837801820,Active
+468,Frado Walla,Sales,Sales Manager,2021-12-30,111101,fradowalla468@company.com,9070562608,Active
+469,Ishwar Chaudhary,Information Technology,System Administrator,2025-10-05,66048,ishwarchaudhary469@company.com,4224124620,Active
+470,Dalbir Misra,Procurement,Procurement Manager,2023-03-07,109723,dalbirmisra470@company.com,5265461033,Active
+471,Yashoda Thaman,Sales,Sales Executive,2023-02-04,44404,yashodathaman471@company.com,4057861706,Active
+472,Yatin Dass,Customer Support,Customer Support Executive,2021-09-22,36147,yatindass472@company.com,7183258238,Active
+473,Aarav Shetty,Operations,Operations Manager,2021-06-19,118116,aaravshetty473@company.com,0074946539,Resigned
+474,Ekaraj Mital,Operations,Operations Manager,2018-01-26,78569,ekarajmital474@company.com,1284639855,Active
+475,Ekanta Om,Marketing,Digital Marketing Specialist,2020-02-16,52921,ekantaom475@company.com,9502097002,Active
+476,Finn Brahmbhatt,Information Technology,System Administrator,2025-09-16,66247,finnbrahmbhatt476@company.com,7156956201,Active
+477,Aditya Kant,Sales,Sales Manager,2016-11-17,95175,adityakant477@company.com,5319433750,Active
+478,Abhimanyu Hayre,Procurement,Procurement Executive,2023-04-14,40233,abhimanyuhayre478@company.com,4987283999,Active
+479,Dhruv Datta,Operations,Operations Executive,2020-12-17,40221,dhruvdatta479@company.com,8430894870,Active
+480,Niharika Mahal,Customer Support,Support Manager,2018-08-13,80220,niharikamahal480@company.com,7580304687,Active
+481,Gaurika Bumb,Marketing,Digital Marketing Specialist,2026-04-10,61562,gaurikabumb481@company.com,3613325411,Active
+482,Gaurika Krishna,Human Resources,HR Executive,2020-09-30,54115,gaurikakrishna482@company.com,7350583199,Active
+483,Frederick Bhat,Sales,Sales Manager,2017-02-10,102433,frederickbhat483@company.com,5120704961,Active
+484,Chaitaly Raj,Customer Support,Support Manager,2023-05-18,95172,chaitalyraj484@company.com,9639907676,Active
+485,Atharv Setty,Marketing,Digital Marketing Specialist,2025-05-05,49388,atharvsetty485@company.com,9311091939,On Leave
+486,Oviya Srivastava,Operations,Operations Manager,2024-02-09,93982,oviyasrivastava486@company.com,3200249685,Active
+487,Manan Singh,Sales,Sales Associate,2021-10-18,34204,manansingh487@company.com,4508920388,Active
+488,Sai Jaggi,Information Technology,Data Analyst,2017-09-16,75319,saijaggi488@company.com,3779599594,Active
+489,Suhani Basak,Information Technology,Database Administrator,2024-12-24,67786,suhanibasak489@company.com,0337933756,Active
+490,Janani Anne,Marketing,Digital Marketing Specialist,2017-10-19,57228,jananianne490@company.com,0812473950,Active
+491,Owen Kanda,Operations,Operations Manager,2021-01-01,119477,owenkanda491@company.com,5832302410,Active
+492,Shivansh Mody,Procurement,Buyer,2024-04-21,41319,shivanshmody492@company.com,5528961122,Active
+493,Kavya Nadkarni,Finance,Finance Manager,2023-11-08,111826,kavyanadkarni493@company.com,0993842530,Active
+494,Shaurya Bumb,Customer Support,Customer Support Executive,2024-07-20,44865,shauryabumb494@company.com,2868578725,On Leave
+495,Urvi Loyal,Finance,Finance Executive,2026-06-07,65089,urviloyal495@company.com,9033373634,Active
+496,Kavya Kumar,Procurement,Buyer,2025-11-29,64226,kavyakumar496@company.com,2147853907,Active
+497,Shravya Sibal,Operations,Operations Manager,2023-11-26,116447,shravyasibal497@company.com,5754602734,Active
+498,Yachana Varghese,Customer Support,Customer Support Executive,2025-11-04,37070,yachanavarghese498@company.com,4311150835,Active
+499,Anvi Halder,Marketing,Digital Marketing Specialist,2018-11-21,64126,anvihalder499@company.com,0445669078,Active
+500,Shaurya Som,Sales,Sales Associate,2020-07-09,32775,shauryasom500@company.com,7515366377,Active

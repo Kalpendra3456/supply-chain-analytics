@@ -1,0 +1,101 @@
+WarehouseID,WarehouseName,City,State,Country,Capacity,ManagerName,OpeningDate
+1,Central Nagpur Fulfillment Center,Nagpur,Maharashtra,India,21049,Aryan Maharaj,2015-09-17
+2,South Ahmedabad Warehouse,Ahmedabad,Gujarat,India,49348,Liam Chaudry,2023-01-21
+3,North Patna Logistics Center,Patna,Bihar,India,32651,Pahal Balay,2012-01-20
+4,Central Mumbai Warehouse,Mumbai,Maharashtra,India,19328,Tejas Kaul,2020-02-22
+5,Smart Ahmedabad Logistics Center,Ahmedabad,Gujarat,India,6739,Rushil Saini,2015-04-18
+6,East Patna Logistics Center,Patna,Bihar,India,32493,Arunima Ahuja,2024-06-15
+7,National Ahmedabad Logistics Center,Ahmedabad,Gujarat,India,23231,Pahal Oak,2016-04-09
+8,Infinity Delhi Distribution Center,Delhi,Delhi,India,32696,Tanveer Nayar,2013-04-14
+9,West Lucknow Distribution Center,Lucknow,Uttar Pradesh,India,19110,Lajita Chatterjee,2017-08-26
+10,North Lucknow Warehouse,Lucknow,Uttar Pradesh,India,29898,Aishani Bassi,2023-12-17
+11,Regional Nagpur Fulfillment Center,Nagpur,Maharashtra,India,44565,Jeet Radhakrishnan,2012-11-19
+12,Infinity Surat Warehouse,Surat,Gujarat,India,35108,Janaki Handa,2023-07-14
+13,North Patna Storage Hub,Patna,Bihar,India,10164,Chakradev Kari,2024-09-11
+14,West Patna Logistics Center,Patna,Bihar,India,28700,Fariq Kaul,2013-04-06
+15,East Chandigarh Warehouse,Chandigarh,Chandigarh,India,8003,Arunima Setty,2022-05-12
+16,Infinity Ahmedabad Fulfillment Center,Ahmedabad,Gujarat,India,10229,Nicholas Prabhakar,2017-08-03
+17,North Ahmedabad Storage Hub,Ahmedabad,Gujarat,India,23217,Amara Bora,2021-11-28
+18,Metro Indore Fulfillment Center,Indore,Madhya Pradesh,India,15659,Yash Gade,2019-05-30
+19,Regional Noida Distribution Center,Noida,Uttar Pradesh,India,48920,Anamika Kanda,2023-03-12
+20,Global Surat Warehouse,Surat,Gujarat,India,44920,Daksh Karnik,2025-07-11
+21,Smart Hyderabad Distribution Center,Hyderabad,Telangana,India,15708,Diya Rattan,2016-02-06
+22,Prime Indore Fulfillment Center,Indore,Madhya Pradesh,India,46943,Siddharth Murty,2015-03-01
+23,East Patna Fulfillment Center,Patna,Bihar,India,8665,Meghana Shanker,2013-12-22
+24,Central Ahmedabad Fulfillment Center,Ahmedabad,Gujarat,India,31290,Liam Koshy,2024-03-21
+25,North Surat Distribution Center,Surat,Gujarat,India,42170,Priya Rastogi,2017-09-14
+26,East Lucknow Storage Hub,Lucknow,Uttar Pradesh,India,30928,Lakshit Upadhyay,2019-12-10
+27,South Indore Fulfillment Center,Indore,Madhya Pradesh,India,14150,Champak Choudhary,2014-02-22
+28,Global Ahmedabad Logistics Center,Ahmedabad,Gujarat,India,40322,Pahal Bhatt,2018-02-02
+29,Global Surat Logistics Center,Surat,Gujarat,India,33077,Upadhriti Wadhwa,2015-10-28
+30,Prime Chandigarh Fulfillment Center,Chandigarh,Chandigarh,India,19373,Ishwar Yadav,2024-04-26
+31,Smart Bengaluru Storage Hub,Bengaluru,Karnataka,India,10957,Harini Choudhury,2016-07-15
+32,North Mumbai Distribution Center,Mumbai,Maharashtra,India,46120,Nakul Setty,2011-08-08
+33,Infinity Hyderabad Storage Hub,Hyderabad,Telangana,India,44086,Xiti Gokhale,2020-03-07
+34,Prime Pune Storage Hub,Pune,Maharashtra,India,44052,Chanchal Tripathi,2021-11-27
+35,Smart Indore Fulfillment Center,Indore,Madhya Pradesh,India,41256,Michael Prakash,2024-07-08
+36,Metro Delhi Warehouse,Delhi,Delhi,India,49676,Aadi Naik,2019-11-10
+37,Infinity Patna Fulfillment Center,Patna,Bihar,India,47006,Isaac Patil,2025-04-09
+38,North Lucknow Fulfillment Center,Lucknow,Uttar Pradesh,India,33492,Wriddhish Bhardwaj,2015-08-23
+39,National Hyderabad Warehouse,Hyderabad,Telangana,India,22261,Frederick Sunder,2025-06-05
+40,Infinity Kolkata Distribution Center,Kolkata,West Bengal,India,38271,Jeremiah Dave,2022-10-08
+41,Metro Nagpur Fulfillment Center,Nagpur,Maharashtra,India,46874,Noah Lanka,2020-07-09
+42,Express Kolkata Distribution Center,Kolkata,West Bengal,India,15016,Siddharth Zacharia,2024-05-24
+43,Infinity Noida Distribution Center,Noida,Uttar Pradesh,India,40348,Devika Rastogi,2022-12-21
+44,Central Kolkata Logistics Center,Kolkata,West Bengal,India,26243,Raksha Varughese,2019-03-24
+45,Central Bhopal Warehouse,Bhopal,Madhya Pradesh,India,28788,Yug Kar,2012-08-19
+46,East Jaipur Warehouse,Jaipur,Rajasthan,India,20785,Ansh Karpe,2021-07-22
+47,North Chandigarh Warehouse,Chandigarh,Chandigarh,India,36849,Abhimanyu Bobal,2023-08-03
+48,Infinity Pune Logistics Center,Pune,Maharashtra,India,13241,Veer Bir,2012-01-30
+49,Metro Bengaluru Storage Hub,Bengaluru,Karnataka,India,41031,Ekavir Varkey,2015-08-05
+50,West Hyderabad Logistics Center,Hyderabad,Telangana,India,44753,Vedika Kala,2020-09-19
+51,East Kanpur Logistics Center,Kanpur,Uttar Pradesh,India,18182,Urvashi Kibe,2024-11-22
+52,Prime Jaipur Fulfillment Center,Jaipur,Rajasthan,India,33711,Niharika Gupta,2013-02-24
+53,National Kolkata Warehouse,Kolkata,West Bengal,India,21246,Raagini Pandya,2018-10-02
+54,North Ahmedabad Fulfillment Center,Ahmedabad,Gujarat,India,6378,Unni Bhagat,2023-01-01
+55,Smart Chandigarh Distribution Center,Chandigarh,Chandigarh,India,43564,Darsh Rau,2023-12-07
+56,Central Ahmedabad Warehouse,Ahmedabad,Gujarat,India,46359,Ikbal Kothari,2014-10-21
+57,East Mumbai Warehouse,Mumbai,Maharashtra,India,7058,Saumya Dey,2018-09-21
+58,North Lucknow Logistics Center,Lucknow,Uttar Pradesh,India,20597,Arya Shere,2015-10-18
+59,Metro Surat Storage Hub,Surat,Gujarat,India,19040,Saanvi Chaudhari,2012-05-28
+60,South Patna Logistics Center,Patna,Bihar,India,42762,Girik Khalsa,2014-05-17
+61,East Bhopal Storage Hub,Bhopal,Madhya Pradesh,India,31677,Vedika Srivastava,2015-03-08
+62,North Chennai Warehouse,Chennai,Tamil Nadu,India,48187,Daniel Gala,2017-12-28
+63,Regional Kanpur Storage Hub,Kanpur,Uttar Pradesh,India,31941,Madhavi Lanka,2024-11-19
+64,Global Indore Warehouse,Indore,Madhya Pradesh,India,49129,Bhavika Sampath,2023-05-25
+65,Central Nagpur Storage Hub,Nagpur,Maharashtra,India,27236,Mohammed Gupta,2016-08-04
+66,East Nagpur Distribution Center,Nagpur,Maharashtra,India,17465,Dalbir Bhat,2024-04-08
+67,National Patna Distribution Center,Patna,Bihar,India,32648,Dakshesh Bedi,2021-06-25
+68,West Hyderabad Storage Hub,Hyderabad,Telangana,India,21371,Yadavi Wali,2014-03-23
+69,National Pune Logistics Center,Pune,Maharashtra,India,11416,Yashoda Buch,2014-09-15
+70,Metro Mumbai Logistics Center,Mumbai,Maharashtra,India,5967,Ekansh Keer,2018-05-31
+71,Infinity Pune Distribution Center,Pune,Maharashtra,India,15899,Yatin Baral,2022-01-30
+72,National Kanpur Storage Hub,Kanpur,Uttar Pradesh,India,19008,Oni Virk,2016-12-04
+73,Central Ghaziabad Distribution Center,Ghaziabad,Uttar Pradesh,India,29836,Samarth Murthy,2015-08-10
+74,Prime Delhi Fulfillment Center,Delhi,Delhi,India,34819,Meghana Deep,2022-12-21
+75,Prime Jaipur Logistics Center,Jaipur,Rajasthan,India,48376,Tanvi Mutti,2024-05-02
+76,South Bhopal Distribution Center,Bhopal,Madhya Pradesh,India,24445,Aditya Shanker,2022-02-10
+77,Central Chennai Logistics Center,Chennai,Tamil Nadu,India,40533,Ethan Yogi,2015-03-04
+78,Global Mumbai Fulfillment Center,Mumbai,Maharashtra,India,8746,Kevin Palla,2012-09-18
+79,Express Mumbai Storage Hub,Mumbai,Maharashtra,India,37954,Kala Mane,2014-03-25
+80,South Kolkata Warehouse,Kolkata,West Bengal,India,38281,Chasmum Wadhwa,2011-09-05
+81,South Pune Warehouse,Pune,Maharashtra,India,43996,Hemang Desai,2016-01-17
+82,Metro Pune Distribution Center,Pune,Maharashtra,India,31461,Hredhaan Dugal,2016-03-06
+83,Express Nagpur Distribution Center,Nagpur,Maharashtra,India,42940,Shivansh Oza,2015-01-04
+84,Central Kochi Logistics Center,Kochi,Kerala,India,10372,Yashasvi Suresh,2015-10-26
+85,Metro Kanpur Logistics Center,Kanpur,Uttar Pradesh,India,42042,George Sampath,2016-04-02
+86,Regional Kolkata Fulfillment Center,Kolkata,West Bengal,India,18386,Aarush Nath,2024-08-30
+87,East Lucknow Fulfillment Center,Lucknow,Uttar Pradesh,India,30938,Adweta Edwin,2024-02-26
+88,Metro Bengaluru Fulfillment Center,Bengaluru,Karnataka,India,34964,Prisha Andra,2013-06-13
+89,Infinity Lucknow Warehouse,Lucknow,Uttar Pradesh,India,5610,Manthan Banik,2017-10-29
+90,Express Indore Logistics Center,Indore,Madhya Pradesh,India,11552,Qushi Datta,2012-04-03
+91,Smart Pune Distribution Center,Pune,Maharashtra,India,38153,Janya Baral,2017-08-19
+92,South Surat Fulfillment Center,Surat,Gujarat,India,9508,Zaid Chauhan,2017-07-24
+93,Regional Ahmedabad Fulfillment Center,Ahmedabad,Gujarat,India,15338,Mohammed Khalsa,2014-04-23
+94,Central Indore Logistics Center,Indore,Madhya Pradesh,India,24620,Nitara Bakshi,2014-08-06
+95,South Nagpur Fulfillment Center,Nagpur,Maharashtra,India,12564,Nisha Kothari,2016-01-31
+96,Global Nagpur Logistics Center,Nagpur,Maharashtra,India,15187,Hritik Raja,2012-03-15
+97,West Surat Logistics Center,Surat,Gujarat,India,18803,Tristan Iyengar,2025-06-09
+98,Smart Lucknow Storage Hub,Lucknow,Uttar Pradesh,India,21457,Inaya Mody,2025-07-03
+99,North Mumbai Storage Hub,Mumbai,Maharashtra,India,23132,Udant Bajwa,2022-10-10
+100,Central Mumbai Fulfillment Center,Mumbai,Maharashtra,India,13573,Mohini Narasimhan,2016-04-14
